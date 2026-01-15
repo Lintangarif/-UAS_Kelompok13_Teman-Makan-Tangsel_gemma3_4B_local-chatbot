@@ -1,0 +1,8108 @@
+[
+  {
+    "name": "Kopi Nako",
+    "area": "BSD",
+    "category": "Kopi",
+    "tags": [
+      "outdoor",
+      "estetik",
+      "nugas",
+      "sunset"
+    ],
+    "Price": "35.000 - 80.000",
+    "rating": 4.6,
+    "address": "Jl. Edutown, BSD City",
+    "recommended_for": [
+      "anak muda",
+      "nugas",
+      "nongkrong sore"
+    ],
+    "opening_time_hint": "Buka 24 Jam",
+    "special_feature": "Tempatnya luas dan estetik, enak buat nugas atau nongkrong sore.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Pak Syamsul",
+    "area": "Ciputat",
+    "category": "Sate",
+    "tags": [
+      "kambing",
+      "legendaris",
+      "lokal"
+    ],
+    "Price": "40.000 - 75.000",
+    "rating": 4.8,
+    "address": "Dekat Pasar Ciputat",
+    "recommended_for": [
+      "makan malam",
+      "keluarga"
+    ],
+    "opening_time_hint": "10.00 - 21.00",
+    "special_feature": "Sate kambing legendaris, dagingnya empuk dan bumbunya meresap banget.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi Bangka 77",
+    "area": "Bintaro",
+    "category": "Bakmi",
+    "tags": [
+      "murah",
+      "porsi besar",
+      "bangka"
+    ],
+    "Price": "25.000 - 45.000",
+    "rating": 4.4,
+    "address": "Bintaro Sektor 9",
+    "recommended_for": [
+      "makan siang",
+      "mahasiswa"
+    ],
+    "opening_time_hint": "09.00 - 21.00",
+    "special_feature": "Porsinya melimpah dengan topping ayam dan jamur yang gurih.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Warung Sunda Ceu Edah",
+    "area": "Pamulang",
+    "category": "Sunda",
+    "tags": [
+      "sambal dadak",
+      "nasi timbel",
+      "tradisional"
+    ],
+    "Price": "50.000 - 100.000",
+    "rating": 4.5,
+    "address": "Jl. Benda Raya, Pamulang",
+    "recommended_for": [
+      "makan siang",
+      "keluarga"
+    ],
+    "opening_time_hint": "16.00 - 23.00",
+    "special_feature": "Sambal dadaknya juara, nasi timbelnya lengkap dengan paruh goreng.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sushi Hiro",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "sushi tower",
+      "fresh",
+      "date night"
+    ],
+    "Price": "150.000 - 400.000",
+    "rating": 4.7,
+    "address": "The Breeze BSD / Aeon Mall BSD",
+    "recommended_for": [
+      "makan cantik",
+      "dating"
+    ],
+    "opening_time_hint": "11.00 - 22.00",
+    "special_feature": "Sushi tower-nya ikonik dan bahan-bahannya premium (fresh).",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Nasi Padang Sederhana",
+    "area": "Bintaro",
+    "category": "Padang",
+    "tags": [
+      "ayam pop",
+      "rendang",
+      "cepat saji"
+    ],
+    "Price": "40.000 - 90.000",
+    "rating": 4.6,
+    "address": "Bintaro Sektor 7",
+    "recommended_for": [
+      "makan siang",
+      "keluarga"
+    ],
+    "opening_time_hint": "08.00 - 22.00",
+    "special_feature": "Ayam pop dan bumbu rendangnya sangat konsisten enaknya.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Seafood 68",
+    "area": "Ciputat",
+    "category": "Seafood",
+    "tags": [
+      "kaki lima",
+      "saus padang",
+      "ramean"
+    ],
+    "Price": "40.000 - 90.000",
+    "rating": 4.3,
+    "address": "Jl. Ir H. Juanda",
+    "recommended_for": [
+      "makan malam",
+      "mahasiswa"
+    ],
+    "opening_time_hint": "16.00 - 23.59",
+    "special_feature": "Seafood kaki lima yang selalu ramai, kerang bambu saus padangnya favorit.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Lot 9",
+    "area": "Bintaro",
+    "category": "Cafe",
+    "tags": [
+      "asri",
+      "outdoor",
+      "brunch"
+    ],
+    "Price": "100.000 - 250.000",
+    "rating": 4.5,
+    "address": "Bintaro Sektor 9",
+    "recommended_for": [
+      "sarapan",
+      "keluarga"
+    ],
+    "opening_time_hint": "07.00 - 22.00",
+    "special_feature": "Area outdoor sangat asri, cocok buat sarapan atau brunch keluarga.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Soto Betawi H. Mamat",
+    "area": "BSD",
+    "category": "Soto",
+    "tags": [
+      "oseng daging",
+      "legendaris",
+      "kuah santan"
+    ],
+    "Price": "50.000 - 90.000",
+    "rating": 4.8,
+    "address": "Pasar Modern BSD / Area BSD Plaza",
+    "recommended_for": [
+      "makan siang",
+      "lokal"
+    ],
+    "opening_time_hint": "08.30 - 21.00",
+    "special_feature": "Daging osengnya gurih banget, disajikan pisah dengan kuah santannya.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kedai Kopi Guyub",
+    "area": "Pamulang",
+    "category": "Kopi",
+    "tags": [
+      "mahasiswa",
+      "murah",
+      "rumahan"
+    ],
+    "Price": "20.000 - 45.000",
+    "rating": 4.4,
+    "address": "Kawasan Pamulang 2",
+    "recommended_for": [
+      "nugas",
+      "santai"
+    ],
+    "opening_time_hint": "09.00 - 23.00",
+    "special_feature": "Vibes-nya seperti di rumah sendiri, harga sangat bersahabat buat mahasiswa.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bandar Djakarta",
+    "area": "BSD",
+    "category": "Seafood",
+    "tags": [
+      "hidup",
+      "pasar ikan",
+      "keluarga"
+    ],
+    "Price": "150.000 - 400.000",
+    "rating": 4.6,
+    "address": "Flavor Bliss (Border BSD)",
+    "recommended_for": [
+      "perayaan",
+      "keluarga besar"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Bisa pilih seafood hidup, tempat sangat luas cocok buat keluarga.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Gubug Makan Mang Engking",
+    "area": "BSD",
+    "category": "Sunda",
+    "tags": [
+      "saung",
+      "kolam ikan",
+      "udang bakar"
+    ],
+    "Price": "100.000 - 250.000",
+    "rating": 4.5,
+    "address": "The Breeze BSD",
+    "recommended_for": [
+      "keluarga",
+      "tamu luar kota"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Makan di saung atas kolam ikan, udang bakar madunya juara.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi Terang Bulan",
+    "area": "BSD",
+    "category": "Bakmi",
+    "tags": [
+      "ayam kampung",
+      "sarapan",
+      "autentik"
+    ],
+    "Price": "35.000 - 65.000",
+    "rating": 4.7,
+    "address": "The Breeze BSD",
+    "recommended_for": [
+      "sarapan",
+      "lokal"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Bakmi ayam kampung autentik, porsi mantap harga bersahabat.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Jiro Ramen",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "kuah kental",
+      "porsi jumbo",
+      "ramen"
+    ],
+    "Price": "70.000 - 120.000",
+    "rating": 4.5,
+    "address": "Ruko Icon BSD",
+    "recommended_for": [
+      "makan kenyang",
+      "anak muda"
+    ],
+    "opening_time_hint": "11.00 - 21.00",
+    "special_feature": "Ramen kuah kental porsi jumbo, cocok buat pecinta micin berkualitas.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Taman Santap Rumah Kayu",
+    "area": "BSD",
+    "category": "Sunda",
+    "tags": [
+      "pesawat",
+      "unik",
+      "anak-anak"
+    ],
+    "Price": "100.000 - 200.000",
+    "rating": 4.4,
+    "address": "Gading Serpong",
+    "recommended_for": [
+      "anak-anak",
+      "keluarga"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Makan di dalam pesawat asli, pengalaman unik buat bawa anak kecil.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Pagi Sore",
+    "area": "BSD",
+    "category": "Padang",
+    "tags": [
+      "rendang",
+      "premium",
+      "sultan"
+    ],
+    "Price": "150.000 - 300.000",
+    "rating": 4.9,
+    "address": "The Park BSD",
+    "recommended_for": [
+      "tamu VIP",
+      "keluarga"
+    ],
+    "opening_time_hint": "09.45 - 22.00",
+    "special_feature": "Rendang ter-enak se-Tangsel, pelayanan kelas sultan.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Kumulo Creative Hamlet",
+    "area": "BSD",
+    "category": "Cafe",
+    "tags": [
+      "kreatif",
+      "minimalis",
+      "outdoor"
+    ],
+    "Price": "50.000 - 150.000",
+    "rating": 4.5,
+    "address": "The Breeze BSD",
+    "recommended_for": [
+      "nongkrong",
+      "foto"
+    ],
+    "opening_time_hint": "10.00 - 20.00",
+    "special_feature": "Banyak tenant kopi estetik, desain bangunan minimalis putih-putih.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Union",
+    "area": "BSD",
+    "category": "Western",
+    "tags": [
+      "red velvet",
+      "premium",
+      "hits"
+    ],
+    "Price": "150.000 - 400.000",
+    "rating": 4.7,
+    "address": "The Breeze BSD",
+    "recommended_for": [
+      "hangout",
+      "executive"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Red Velvet Cake-nya legendaris, tempat nongkrong hits eksekutif.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Remboelan",
+    "area": "BSD",
+    "category": "Indonesia",
+    "tags": [
+      "nusantara",
+      "elegan",
+      "kuno"
+    ],
+    "Price": "100.000 - 250.000",
+    "rating": 4.6,
+    "address": "Aeon Mall BSD",
+    "recommended_for": [
+      "keluarga",
+      "tamu kantor"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Masakan nusantara dengan rasa premium dan tempat yang elegan.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Nasi Goreng Kambing Kebon Sirih",
+    "area": "BSD",
+    "category": "Nasi Goreng",
+    "tags": [
+      "kambing",
+      "rempah",
+      "legendaris"
+    ],
+    "Price": "50.000 - 80.000",
+    "rating": 4.4,
+    "address": "Pasar Modern Intermoda",
+    "recommended_for": [
+      "makan malam",
+      "lokal"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Rempah kambingnya kuat, porsi besar khas Kebon Sirih pusat.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Common Grounds",
+    "area": "BSD",
+    "category": "Kopi",
+    "tags": [
+      "brunch",
+      "internasional",
+      "specialty coffee"
+    ],
+    "Price": "100.000 - 200.000",
+    "rating": 4.5,
+    "address": "The Breeze BSD",
+    "recommended_for": [
+      "sarapan",
+      "executive"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Brunch menu-nya enak, kopi kualitas internasional.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Sate Khas Senayan",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "bumbu halus",
+      "nyaman",
+      "indonesia"
+    ],
+    "Price": "100.000 - 200.000",
+    "rating": 4.6,
+    "address": "Aeon Mall BSD / The Breeze",
+    "recommended_for": [
+      "keluarga",
+      "tamu"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Bumbu kacangnya sangat halus, tempat bersih dan nyaman.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi GM",
+    "area": "BSD",
+    "category": "Bakmi",
+    "tags": [
+      "pangsit goreng",
+      "klasik",
+      "cepat"
+    ],
+    "Price": "40.000 - 80.000",
+    "rating": 4.5,
+    "address": "Aeon Mall BSD",
+    "recommended_for": [
+      "keluarga",
+      "makan siang"
+    ],
+    "opening_time_hint": "10.00 - 21.30",
+    "special_feature": "Pangsit gorengnya wajib dipesan, rasa konsisten sejak dulu.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kimukatsu",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "katsu layer",
+      "keju",
+      "jepang"
+    ],
+    "Price": "70.000 - 130.000",
+    "rating": 4.6,
+    "address": "Aeon Mall BSD",
+    "recommended_for": [
+      "anak muda",
+      "keluarga"
+    ],
+    "opening_time_hint": "10.00 - 21.30",
+    "special_feature": "Katsu layer yang unik, bisa pilih isi keju atau lada hitam.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Holycow! Steakhouse",
+    "area": "BSD",
+    "category": "Steak",
+    "tags": [
+      "wagyu",
+      "steak",
+      "saus jamur"
+    ],
+    "Price": "150.000 - 400.000",
+    "rating": 4.5,
+    "address": "Ruko Bidex BSD",
+    "recommended_for": [
+      "makan malam",
+      "perayaan"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Steak wagyu harga terjangkau dengan saus mushroom yang lezat.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Ikkudo Ichi",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "ramen",
+      "non-halal",
+      "kuah kental"
+    ],
+    "Price": "70.000 - 120.000",
+    "rating": 4.7,
+    "address": "Aeon Mall BSD / The Breeze",
+    "recommended_for": [
+      "pecinta ramen"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Ramen non-halal (ada lemak babi) dengan kuah kental nikmat.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Chakra",
+    "area": "BSD",
+    "category": "Western",
+    "tags": [
+      "wedding",
+      "view danau",
+      "elegan"
+    ],
+    "Price": "200.000 - 500.000",
+    "rating": 4.5,
+    "address": "The Breeze",
+    "recommended_for": [
+      "date",
+      "wedding event"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Venue wedding mewah dengan view danau.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Jittlada",
+    "area": "BSD",
+    "category": "Thailand",
+    "tags": [
+      "mango sticky rice",
+      "autentik",
+      "thailand"
+    ],
+    "Price": "150.000 - 300.000",
+    "rating": 4.4,
+    "address": "The Breeze",
+    "recommended_for": [
+      "keluarga",
+      "tamu"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Masakan Thailand autentik, mango sticky rice-nya juara.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Gyu-Kaku",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "bbq",
+      "ayce",
+      "daging premium"
+    ],
+    "Price": "250.000 - 500.000",
+    "rating": 4.8,
+    "address": "The Breeze / Aeon",
+    "recommended_for": [
+      "ayce",
+      "perayaan"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "All You Can Eat BBQ premium dengan kualitas daging terbaik.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Deresto Coffee Shop",
+    "area": "BSD",
+    "category": "Kopi",
+    "tags": [
+      "nugas",
+      "tenang",
+      "kantor"
+    ],
+    "Price": "40.000 - 90.000",
+    "rating": 4.3,
+    "address": "The Breeze",
+    "recommended_for": [
+      "nugas",
+      "meeting"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Spot tenang buat nugas di tengah area perkantoran GOP.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Brewerkz",
+    "area": "BSD",
+    "category": "Western",
+    "tags": [
+      "sport bar",
+      "burger",
+      "pizza"
+    ],
+    "Price": "150.000 - 350.000",
+    "rating": 4.5,
+    "address": "The Breeze",
+    "recommended_for": [
+      "nonton bareng",
+      "hangout"
+    ],
+    "opening_time_hint": "10.00 - 00.00",
+    "special_feature": "Sport bar dengan menu burger dan pizza porsi besar.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Skinny Dip",
+    "area": "BSD",
+    "category": "Western",
+    "tags": [
+      "sandwich",
+      "unik",
+      "jepang-italia"
+    ],
+    "Price": "70.000 - 150.000",
+    "rating": 4.4,
+    "address": "The Breeze",
+    "recommended_for": [
+      "makan cepat",
+      "anak muda"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Spesialis sandwich celup yang unik banget.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Grillman",
+    "area": "BSD",
+    "category": "Western",
+    "tags": [
+      "grill",
+      "variatif",
+      "set menu"
+    ],
+    "Price": "70.000 - 150.000",
+    "rating": 4.3,
+    "address": "The Breeze",
+    "recommended_for": [
+      "makan siang",
+      "kantor"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Menu grill dengan nasi dan side dish yang variatif.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Cinnabon",
+    "area": "BSD",
+    "category": "Dessert",
+    "tags": [
+      "cinnamon roll",
+      "manis",
+      "oleh-oleh"
+    ],
+    "Price": "30.000 - 70.000",
+    "rating": 4.6,
+    "address": "Aeon Mall BSD",
+    "recommended_for": [
+      "camilan",
+      "pecinta manis"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Cinnamon roll paling wangi se-BSD.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kenjiro",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "sashimi",
+      "premium",
+      "vibes jepang"
+    ],
+    "Price": "200.000 - 500.000",
+    "rating": 4.7,
+    "address": "The Breeze",
+    "recommended_for": [
+      "date night",
+      "pecinta ikan"
+    ],
+    "opening_time_hint": "11.00 - 22.00",
+    "special_feature": "Vibe Jepang-nya dapet banget, sashimi super fresh.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "We The Fork",
+    "area": "BSD",
+    "category": "Western",
+    "tags": [
+      "bbq",
+      "smoked meat",
+      "premium"
+    ],
+    "Price": "150.000 - 400.000",
+    "rating": 4.5,
+    "address": "The Breeze",
+    "recommended_for": [
+      "pecinta daging",
+      "perayaan"
+    ],
+    "opening_time_hint": "07.00 - 22.00",
+    "special_feature": "Spesialis BBQ dan Smoked Meat berkualitas.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Pisang Goreng Suka Hati",
+    "area": "BSD",
+    "category": "Camilan",
+    "tags": [
+      "wijen",
+      "antre",
+      "sarapan"
+    ],
+    "Price": "10.000 - 40.000",
+    "rating": 4.8,
+    "address": "Pasar Modern BSD",
+    "recommended_for": [
+      "sarapan",
+      "camilan pagi"
+    ],
+    "opening_time_hint": "06.30 - 20.30",
+    "special_feature": "Pisang goreng wijen paling antre di pagi hari.",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Wakaka Food Factory",
+    "area": "BSD",
+    "category": "Indomie",
+    "tags": [
+      "sharing",
+      "nongkrong malam",
+      "variatif"
+    ],
+    "Price": "30.000 - 80.000",
+    "rating": 4.2,
+    "address": "Pasar Modern BSD",
+    "recommended_for": [
+      "ramean",
+      "mahasiswa"
+    ],
+    "opening_time_hint": "16.00 - 00.00",
+    "special_feature": "Tempat nongkrong malam dengan porsi sharing Indomie melimpah.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Serabi Notosuman",
+    "area": "BSD",
+    "category": "Camilan",
+    "tags": [
+      "solo",
+      "manis",
+      "lembut"
+    ],
+    "Price": "10.000 - 50.000",
+    "rating": 4.7,
+    "address": "Pasar Modern BSD",
+    "recommended_for": [
+      "oleh-oleh",
+      "cemilan"
+    ],
+    "opening_time_hint": "05.00 - 19.00",
+    "special_feature": "Oleh-oleh serabi khas Solo yang lembut dan manis.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Nasi Gudeg Cah Solo",
+    "area": "BSD",
+    "category": "Jawa",
+    "tags": [
+      "gudeg",
+      "krecek",
+      "tradisional"
+    ],
+    "Price": "30.000 - 60.000",
+    "rating": 4.5,
+    "address": "Pasar Modern BSD",
+    "recommended_for": [
+      "sarapan",
+      "makan siang"
+    ],
+    "opening_time_hint": "06.00 - 14.00",
+    "special_feature": "Gudeg kreceknya pedas-manis pas di lidah.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi Kebon Jahe",
+    "area": "BSD",
+    "category": "Bakmi",
+    "tags": [
+      "kaldu kental",
+      "legendaris",
+      "sarapan"
+    ],
+    "Price": "40.000 - 75.000",
+    "rating": 4.6,
+    "address": "Pasar Modern BSD",
+    "recommended_for": [
+      "sarapan",
+      "makan siang"
+    ],
+    "opening_time_hint": "06.30 - 14.30",
+    "special_feature": "Bakmi ayam legendaris dengan kuah kaldu kental.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Siomay Sewan",
+    "area": "BSD",
+    "category": "Camilan",
+    "tags": [
+      "babi",
+      "ikan",
+      "puluhan tahun"
+    ],
+    "Price": "20.000 - 50.000",
+    "rating": 4.4,
+    "address": "Pasar Modern BSD",
+    "recommended_for": [
+      "camilan pagi",
+      "pecinta siomay"
+    ],
+    "opening_time_hint": "08.00 - 18.00",
+    "special_feature": "Siomay babi/ikan yang sudah ada sejak puluhan tahun.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Congkee Bakmie",
+    "area": "BSD",
+    "category": "Bakmi",
+    "tags": [
+      "medan",
+      "charsiu",
+      "porsi melimpah"
+    ],
+    "Price": "40.000 - 80.000",
+    "rating": 4.5,
+    "address": "Pasar Modern BSD",
+    "recommended_for": [
+      "makan siang",
+      "pecinta bakmi"
+    ],
+    "opening_time_hint": "07.00 - 21.00",
+    "special_feature": "Bakmi khas Medan dengan topping charsiu yang melimpah.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kwetiau Sapi 28 Atek",
+    "area": "BSD",
+    "category": "Chinese",
+    "tags": [
+      "wokhei",
+      "goreng",
+      "sapi"
+    ],
+    "Price": "50.000 - 90.000",
+    "rating": 4.5,
+    "address": "Pasar Modern BSD",
+    "recommended_for": [
+      "makan siang",
+      "keluarga"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Wokhei-nya kerasa banget, kwetiau gorengnya favorit.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Lao Hoe",
+    "area": "BSD",
+    "category": "Chinese",
+    "tags": [
+      "laksa",
+      "belitung",
+      "legendaris"
+    ],
+    "Price": "40.000 - 80.000",
+    "rating": 4.6,
+    "address": "Pasar Modern BSD",
+    "recommended_for": [
+      "makan siang",
+      "lokal"
+    ],
+    "opening_time_hint": "08.00 - 17.00",
+    "special_feature": "Menu legendaris seperti laksa dan mie belitung.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Menya Musashi Bukotsu",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "black garlic",
+      "porsi besar",
+      "ramen"
+    ],
+    "Price": "70.000 - 130.000",
+    "rating": 4.6,
+    "address": "The Breeze BSD",
+    "recommended_for": [
+      "pecinta ramen",
+      "anak muda"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Ramen dengan porsi besar dan varian kuah hitam (black garlic).",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Niku Udon",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "udon",
+      "marugame",
+      "sapi"
+    ],
+    "Price": "50.000 - 100.000",
+    "rating": 4.5,
+    "address": "Aeon Mall BSD",
+    "recommended_for": [
+      "makan cepat",
+      "keluarga"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Udon dengan irisan daging sapi melimpah di Marugame.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Gyu Katsu Nikaido",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "stone grill",
+      "katsu sapi",
+      "interaktif"
+    ],
+    "Price": "150.000 - 300.000",
+    "rating": 4.4,
+    "address": "Aeon Mall BSD",
+    "recommended_for": [
+      "dating",
+      "makan malam"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Katsu daging sapi yang bisa dimasak sendiri di atas stone grill.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Seirock-Ya",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "toripaitan",
+      "halal",
+      "paling gurih"
+    ],
+    "Price": "80.000 - 140.000",
+    "rating": 4.9,
+    "address": "Aeon Mall BSD",
+    "recommended_for": [
+      "pecinta ramen",
+      "halal"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Toripaitan ramen paling gurih se-Indonesia.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Haidilao Hotpot",
+    "area": "BSD",
+    "category": "Chinese",
+    "tags": [
+      "manikur gratis",
+      "soup",
+      "pelayanan"
+    ],
+    "Price": "250.000 - 500.000",
+    "rating": 4.9,
+    "address": "Living World Mall",
+    "recommended_for": [
+      "ulang tahun",
+      "keluarga"
+    ],
+    "opening_time_hint": "10.00 - 04.00",
+    "special_feature": "Pelayanan terbaik, bisa manikur gratis sambil nunggu antrean.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "On-Yasai",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "shabu buffet",
+      "sayur segar",
+      "ayce"
+    ],
+    "Price": "200.000 - 450.000",
+    "rating": 4.7,
+    "address": "Aeon Mall BSD",
+    "recommended_for": [
+      "ayce",
+      "pecinta sayur"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Shabu-shabu buffet dengan sayuran super segar.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Popolamama",
+    "area": "BSD",
+    "category": "Western",
+    "tags": [
+      "pasta segar",
+      "jepang-italia",
+      "handmade"
+    ],
+    "Price": "70.000 - 150.000",
+    "rating": 4.3,
+    "address": "Aeon Mall BSD",
+    "recommended_for": [
+      "anak muda",
+      "keluarga"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Pasta segar buatan tangan gaya Jepang-Italia.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Fish & Co",
+    "area": "BSD",
+    "category": "Western",
+    "tags": [
+      "fish and chips",
+      "pan serving",
+      "seafood"
+    ],
+    "Price": "120.000 - 250.000",
+    "rating": 4.4,
+    "address": "Aeon Mall BSD",
+    "recommended_for": [
+      "keluarga",
+      "pecinta ikan"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Fish and chips porsi besar disajikan di atas penggorengan.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Warung Tekko",
+    "area": "BSD",
+    "category": "Indonesia",
+    "tags": [
+      "iga penyet",
+      "sambal terasi",
+      "lokal"
+    ],
+    "Price": "60.000 - 120.000",
+    "rating": 4.2,
+    "address": "Aeon Mall BSD / QBig",
+    "recommended_for": [
+      "makan siang",
+      "keluarga"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Spesialis iga penyet dengan sambal terasi yang mantap.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Gopek House",
+    "area": "BSD",
+    "category": "Chinese",
+    "tags": [
+      "peranakan",
+      "sharing",
+      "nostalgia"
+    ],
+    "Price": "70.000 - 150.000",
+    "rating": 4.5,
+    "address": "Aeon Mall BSD",
+    "recommended_for": [
+      "keluarga",
+      "sharing"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Masakan peranakan yang ramah di lidah dengan porsi sharing.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Pison Coffee",
+    "area": "BSD",
+    "category": "Kopi",
+    "tags": [
+      "bali style",
+      "egg benedict",
+      "nugas"
+    ],
+    "Price": "100.000 - 250.000",
+    "rating": 4.7,
+    "address": "The Breeze BSD",
+    "recommended_for": [
+      "sarapan",
+      "nugas executive"
+    ],
+    "opening_time_hint": "08.00 - 22.00",
+    "special_feature": "Kopi kualitas Bali, breakfast menu-nya juara (Egg Benedict).",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Scarlett's Cafe",
+    "area": "BSD",
+    "category": "Dessert",
+    "tags": [
+      "poured tiramisu",
+      "viral",
+      "estetik"
+    ],
+    "Price": "80.000 - 160.000",
+    "rating": 4.8,
+    "address": "The Breeze BSD",
+    "recommended_for": [
+      "dating",
+      "foto-foto"
+    ],
+    "opening_time_hint": "11.00 - 19.45",
+    "special_feature": "Tiramisu dan Poured Tiramisu-nya viral banget, antre parah.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Second Floor Coffee",
+    "area": "BSD",
+    "category": "Kopi",
+    "tags": [
+      "futuristik",
+      "beans dunia",
+      "specialty"
+    ],
+    "Price": "80.000 - 200.000",
+    "rating": 4.5,
+    "address": "Icon Business Park",
+    "recommended_for": [
+      "pecinta kopi",
+      "meeting"
+    ],
+    "opening_time_hint": "07.00 - 22.00",
+    "special_feature": "Desain interior futuristik, kopi beans-nya kelas dunia.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Kopi Kalyan",
+    "area": "BSD",
+    "category": "Kopi",
+    "tags": [
+      "creamy",
+      "nugas",
+      "cozy"
+    ],
+    "Price": "50.000 - 100.000",
+    "rating": 4.6,
+    "address": "Foresta Business Loft",
+    "recommended_for": [
+      "nugas",
+      "laptopan"
+    ],
+    "opening_time_hint": "09.00 - 21.00",
+    "special_feature": "Kopi susu kalyan yang creamy, tempat sangat cozy buat laptopan.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Suis Butcher",
+    "area": "BSD",
+    "category": "Steak",
+    "tags": [
+      "bandung",
+      "legendaris",
+      "affordable steak"
+    ],
+    "Price": "70.000 - 150.000",
+    "rating": 4.4,
+    "address": "Ruko Icon",
+    "recommended_for": [
+      "makan malam",
+      "keluarga"
+    ],
+    "opening_time_hint": "11.00 - 22.00",
+    "special_feature": "Steak legendaris asal Bandung dengan harga yang masuk akal.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi Apin",
+    "area": "BSD",
+    "category": "Bakmi",
+    "tags": [
+      "yamin",
+      "bandung",
+      "pangsit tipis"
+    ],
+    "Price": "40.000 - 80.000",
+    "rating": 4.5,
+    "address": "Ruko Icon",
+    "recommended_for": [
+      "makan siang",
+      "pecinta yamin"
+    ],
+    "opening_time_hint": "08.00 - 20.00",
+    "special_feature": "Bakmi yamin khas Bandung dengan kerupuk pangsit tipis nan renyah.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Taichan Goreng",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "niko al hakim",
+      "pedas",
+      "anak muda"
+    ],
+    "Price": "30.000 - 70.000",
+    "rating": 4.3,
+    "address": "Ruko Foresta",
+    "recommended_for": [
+      "nongkrong",
+      "makan malam"
+    ],
+    "opening_time_hint": "11.00 - 23.00",
+    "special_feature": "Taichan hits milik Niko Al-Hakim, sambalnya pedas nendang.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Burgreens",
+    "area": "BSD",
+    "category": "Healthy",
+    "tags": [
+      "plant-based",
+      "diet",
+      "sehat"
+    ],
+    "Price": "100.000 - 200.000",
+    "rating": 4.5,
+    "address": "The Breeze",
+    "recommended_for": [
+      "diet",
+      "vegetarian"
+    ],
+    "opening_time_hint": "10.00 - 21.30",
+    "special_feature": "Burger nabati (plant-based) buat yang lagi diet tapi mau enak.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Hockky Kopitiam",
+    "area": "BSD",
+    "category": "Chinese",
+    "tags": [
+      "roti srikaya",
+      "medan style",
+      "sarapan"
+    ],
+    "Price": "30.000 - 60.000",
+    "rating": 4.4,
+    "address": "Ruko Icon",
+    "recommended_for": [
+      "sarapan",
+      "santai"
+    ],
+    "opening_time_hint": "07.00 - 21.00",
+    "special_feature": "Kopi tarik dan roti srikaya buat sarapan gaya Medan.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Umatis Resto & Venue",
+    "area": "BSD",
+    "category": "Indonesia",
+    "tags": [
+      "elegan",
+      "indonesia",
+      "aesthetic",
+      "venue"
+    ],
+    "Price": "100.000 - 250.000",
+    "rating": 4.7,
+    "address": "BSD City, Kavling Taman Kota",
+    "recommended_for": [
+      "makan keluarga",
+      "tamu kantor",
+      "acara spesial"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Restoran Indonesia elegan dengan desain bangunan yang estetik.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Sale Restaurant BSD",
+    "area": "BSD",
+    "category": "Italian",
+    "tags": [
+      "pasta",
+      "pizza",
+      "authentic",
+      "wine"
+    ],
+    "Price": "150.000 - 350.000",
+    "rating": 4.8,
+    "address": "The Icon Business Park",
+    "recommended_for": [
+      "date night",
+      "pecinta pasta",
+      "anniversary"
+    ],
+    "opening_time_hint": "11.00 - 21.00",
+    "special_feature": "Menawarkan Italian vibe yang kental dengan kualitas rasa otentik.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Lembur Kuring Sunburst BSD",
+    "area": "BSD",
+    "category": "Sunda",
+    "tags": [
+      "sunda",
+      "keluarga",
+      "ikan bakar",
+      "luas"
+    ],
+    "Price": "100.000 - 200.000",
+    "rating": 4.6,
+    "address": "Sunburst BSD City",
+    "recommended_for": [
+      "keluarga besar",
+      "tamu luar kota"
+    ],
+    "opening_time_hint": "10.30 - 21.00",
+    "special_feature": "Spesialis masakan Sunda yang rasanya sangat ngena di lidah lokal.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Ken Sanada BSD",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "exclusive",
+      "omakase",
+      "sushi",
+      "premium"
+    ],
+    "Price": "300.000 - 1.000.000",
+    "rating": 4.8,
+    "address": "Nava Park - North Point",
+    "recommended_for": [
+      "special occasion",
+      "date night",
+      "pecinta jepang"
+    ],
+    "opening_time_hint": "12.00-15.00 & 17.30-22.00",
+    "special_feature": "Restoran Jepang eksklusif yang menawarkan pengalaman makan premium.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Hiyoko 2.0",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "yakitori",
+      "premium",
+      "ice bsd",
+      "jepang"
+    ],
+    "Price": "200.000 - 450.000",
+    "rating": 4.7,
+    "address": "Kawasan ICE BSD City",
+    "recommended_for": [
+      "makan malam mewah",
+      "pecinta yakitori"
+    ],
+    "opening_time_hint": "11.00 - 21.00",
+    "special_feature": "Restoran Jepang premium yang berlokasi strategis di area ICE BSD.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Cutt & Grill The Breeze",
+    "area": "BSD",
+    "category": "Steak",
+    "tags": [
+      "steak",
+      "grill",
+      "premium beef",
+      "western"
+    ],
+    "Price": "200.000 - 500.000",
+    "rating": 4.7,
+    "address": "The Breeze BSD City",
+    "recommended_for": [
+      "makan serius",
+      "date night",
+      "pecinta daging"
+    ],
+    "opening_time_hint": "11.00 - 22.00",
+    "special_feature": "Steakhouse kelas atas yang menyajikan berbagai potongan daging premium.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "John & James BSD City",
+    "area": "BSD",
+    "category": "Italian",
+    "tags": [
+      "hidden gem",
+      "pizza",
+      "affordable",
+      "pasta"
+    ],
+    "Price": "70.000 - 150.000",
+    "rating": 4.6,
+    "address": "Ruko Golden Madrid 1",
+    "recommended_for": [
+      "nongkrong santai",
+      "makan siang"
+    ],
+    "opening_time_hint": "09.00 - 22.00",
+    "special_feature": "Hidden spot bertema Italia dengan harga yang sangat ramah di kantong.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Jalarasa",
+    "area": "BSD",
+    "category": "Asian",
+    "tags": [
+      "comfort food",
+      "asian fusion",
+      "the breeze"
+    ],
+    "Price": "90.000 - 200.000",
+    "rating": 4.5,
+    "address": "The Breeze BSD City",
+    "recommended_for": [
+      "makan siang keluarga",
+      "hangout"
+    ],
+    "opening_time_hint": "11.00 - 22.00",
+    "special_feature": "Menyajikan Asian comfort food dengan suasana yang nyaman.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Butler’s Steak",
+    "area": "BSD",
+    "category": "Steak",
+    "tags": [
+      "steakhouse",
+      "cbd",
+      "premium",
+      "western"
+    ],
+    "Price": "200.000 - 450.000",
+    "rating": 4.7,
+    "address": "Upper West Experience Center",
+    "recommended_for": [
+      "meeting bisnis",
+      "makan malam mewah"
+    ],
+    "opening_time_hint": "11.00 - 22.00",
+    "special_feature": "Salah satu steakhouse favorit di kawasan pusat bisnis (CBD) BSD.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Intro Bistro BSD",
+    "area": "BSD",
+    "category": "Western",
+    "tags": [
+      "bistro",
+      "brunch",
+      "dinner",
+      "hangout"
+    ],
+    "Price": "100.000 - 200.000",
+    "rating": 4.5,
+    "address": "Sunburst CBD BSD",
+    "recommended_for": [
+      "brunch",
+      "dinner santai"
+    ],
+    "opening_time_hint": "08.00 - 22.00",
+    "special_feature": "Bistro klasik yang menawarkan suasana nyaman untuk brunch atau dinner.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Cham Cham Chicken BSD",
+    "area": "BSD",
+    "category": "Korean",
+    "tags": [
+      "korean chicken",
+      "fried chicken",
+      "k-food",
+      "viral"
+    ],
+    "Price": "75.000 - 150.000",
+    "rating": 4.8,
+    "address": "Ruko Barcelona BSD",
+    "recommended_for": [
+      "pecinta ayam goreng",
+      "anak muda"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Spot ayam goreng Korea populer dengan bumbu yang meresap.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Es Teler 77 (Pasmod Legend)",
+    "area": "BSD",
+    "category": "Dessert/Nusantara",
+    "tags": [
+      "es teler",
+      "otak-otak",
+      "legendaris",
+      "underrated"
+    ],
+    "Price": "25.000 - 55.000",
+    "rating": 4.4,
+    "address": "Pasar Modern BSD (Pintu Masuk Utama)",
+    "recommended_for": [
+      "ngemil sore",
+      "cuaca panas",
+      "keluarga"
+    ],
+    "opening_time_hint": "09:00 - 18:00",
+    "special_feature": "Salah satu gerai tertua yang rasanya masih sangat konsisten. Otak-otak bakarnya gacor banget dicocol sambal kacang.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Hygge Cafe BSD",
+    "area": "BSD",
+    "category": "Cafe",
+    "tags": [
+      "cozy",
+      "ngopi",
+      "hangout",
+      "nugas"
+    ],
+    "Price": "60.000 - 130.000",
+    "rating": 4.6,
+    "address": "Upper West BSD City",
+    "recommended_for": [
+      "nongkrong santai",
+      "pecinta kopi"
+    ],
+    "opening_time_hint": "08.00 - 18.00",
+    "special_feature": "Cafe yang sangat cozy dan tenang, cocok untuk mengobrol lama.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Pizzeria Cavalese BSD",
+    "area": "BSD",
+    "category": "Italian",
+    "tags": [
+      "pizza",
+      "authentic",
+      "italian style"
+    ],
+    "Price": "100.000 - 200.000",
+    "rating": 4.6,
+    "address": "Icon Business Park",
+    "recommended_for": [
+      "keluarga",
+      "pecinta pizza"
+    ],
+    "opening_time_hint": "11.00 - 21.00",
+    "special_feature": "Menyajikan pizza gaya Italia yang otentik di area ICON.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Tanoshii Sushi",
+    "area": "BSD",
+    "category": "Jepang",
+    "tags": [
+      "sushi murah",
+      "worth it",
+      "sushi jepang"
+    ],
+    "Price": "40.000 - 90.000",
+    "rating": 4.5,
+    "address": "Mitra Kuliner BSD City",
+    "recommended_for": [
+      "makan siang cepat",
+      "mahasiswa"
+    ],
+    "opening_time_hint": "12.00 - 23.55",
+    "special_feature": "Sushinya terjangkau namun memiliki rasa yang sangat baik.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Seilera",
+    "area": "BSD",
+    "category": "Indonesia",
+    "tags": [
+      "sei sapi",
+      "pedas",
+      "comfort food",
+      "nusa tenggara"
+    ],
+    "Price": "60.000 - 110.000",
+    "rating": 4.7,
+    "address": "BSD City Area",
+    "recommended_for": [
+      "makan siang",
+      "pecinta sei"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Menyajikan masakan Sei Sapi khas NTT dengan kualitas daging asap konsisten.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Ujung Pandang Restaurant",
+    "area": "BSD",
+    "category": "Seafood",
+    "tags": [
+      "makassar",
+      "seafood",
+      "ayam bakar",
+      "lokal"
+    ],
+    "Price": "100.000 - 250.000",
+    "rating": 4.6,
+    "address": "Ruko Versailles BSD",
+    "recommended_for": [
+      "makan keluarga",
+      "pecinta seafood"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Restoran seafood dan ayam bakar favorit dengan cita rasa Makassar.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Rocca",
+    "area": "BSD",
+    "category": "Western",
+    "tags": [
+      "hangout",
+      "malam",
+      "qbig",
+      "modern"
+    ],
+    "Price": "100.000 - 250.000",
+    "rating": 4.4,
+    "address": "QBIG BSD City",
+    "recommended_for": [
+      "hangout malam",
+      "makan malam modern"
+    ],
+    "opening_time_hint": "10.00 - 23.00",
+    "special_feature": "Spot makan modern yang buka sampai malam di area QBIG.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Bandar Djakarta Alam Sutera",
+    "area": "Alam Sutera",
+    "category": "Seafood",
+    "tags": [
+      "fresh seafood",
+      "pasar ikan",
+      "legendaris",
+      "luas"
+    ],
+    "Price": "150.000 - 350.000",
+    "rating": 4.6,
+    "address": "Flavor Bliss, Alam Sutera",
+    "recommended_for": [
+      "keluarga besar",
+      "acara rombongan"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Seafood legendaris dengan pilihan ikan hidup yang lengkap.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Cutt & Grill Flavor Bliss",
+    "area": "Alam Sutera",
+    "category": "Steak",
+    "tags": [
+      "steak premium",
+      "flavor bliss",
+      "western",
+      "grill"
+    ],
+    "Price": "200.000 - 500.000",
+    "rating": 4.7,
+    "address": "Flavor Bliss, Alam Sutera",
+    "recommended_for": [
+      "date night",
+      "makan malam elit"
+    ],
+    "opening_time_hint": "11.00 - 22.00",
+    "special_feature": "Steak premium dengan teknik grilling profesional.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Sambara Alam Sutera",
+    "area": "Alam Sutera",
+    "category": "Sunda",
+    "tags": [
+      "nyaman",
+      "prasmanan",
+      "indonesia",
+      "sunda"
+    ],
+    "Price": "80.000 - 150.000",
+    "rating": 4.6,
+    "address": "Woodlake Shophouse Alam Sutera",
+    "recommended_for": [
+      "makan keluarga",
+      "pecinta masakan sunda"
+    ],
+    "opening_time_hint": "10.00 - 21.00",
+    "special_feature": "Masakan Sunda nyaman dengan pilihan menu prasmanan beragam.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Pulau Sentosa Seafood Market",
+    "area": "Alam Sutera",
+    "category": "Seafood",
+    "tags": [
+      "seafood market",
+      "fresh",
+      "ramai",
+      "alsut"
+    ],
+    "Price": "150.000 - 300.000",
+    "rating": 4.5,
+    "address": "Alam Sutera, Serpong Utara",
+    "recommended_for": [
+      "makan keluarga",
+      "pecinta seafood segar"
+    ],
+    "opening_time_hint": "10.30 - 22.00",
+    "special_feature": "Gaya pasar seafood market yang selalu ramai dan segar.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Otella & Buranchi",
+    "area": "Alam Sutera",
+    "category": "Western",
+    "tags": [
+      "santai",
+      "flavor bliss",
+      "brunch",
+      "aesthetic"
+    ],
+    "Price": "100.000 - 250.000",
+    "rating": 4.5,
+    "address": "Flavor Bliss, Alam Sutera",
+    "recommended_for": [
+      "brunch",
+      "hangout cantik"
+    ],
+    "opening_time_hint": "09.00 - 22.00",
+    "special_feature": "Suasana santai dan desain estetik, populer untuk brunch.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Kayu Kayu Restaurant",
+    "area": "Alam Sutera",
+    "category": "Indonesia",
+    "tags": [
+      "natural",
+      "vibe kayu",
+      "indonesia premium",
+      "luas"
+    ],
+    "Price": "150.000 - 300.000",
+    "rating": 4.6,
+    "address": "Jl. Jalur Sutera No. 28A",
+    "recommended_for": [
+      "makan keluarga",
+      "perayaan wedding",
+      "tamu VIP"
+    ],
+    "opening_time_hint": "08.00 - 22.00",
+    "special_feature": "Restoran luas dengan tema kayu natural yang ikonik.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Ikan Bakar Cianjur",
+    "area": "Alam Sutera",
+    "category": "Indonesia",
+    "tags": [
+      "ikan bakar",
+      "sunda",
+      "keluarga",
+      "favorit"
+    ],
+    "Price": "100.000 - 180.000",
+    "rating": 4.5,
+    "address": "Alam Sutera, Serpong Utara",
+    "recommended_for": [
+      "makan keluarga",
+      "pecinta masakan tradisional"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Pilihan klasik keluarga untuk ikan bakar dan masakan Sunda.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Justus Steakhouse",
+    "area": "Alam Sutera",
+    "category": "Steak",
+    "tags": [
+      "steakhouse",
+      "populer",
+      "western",
+      "premium beef"
+    ],
+    "Price": "150.000 - 400.000",
+    "rating": 4.7,
+    "address": "Alam Sutera Town Center",
+    "recommended_for": [
+      "makan malam keluarga",
+      "pecinta daging"
+    ],
+    "opening_time_hint": "11.00 - 22.00",
+    "special_feature": "Steakhouse populer dengan saus dan kematangan berkualitas.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "RM Putera Lombok",
+    "area": "Alam Sutera",
+    "category": "Indonesia",
+    "tags": [
+      "lombok",
+      "pedas",
+      "taliwang",
+      "otentik"
+    ],
+    "Price": "70.000 - 130.000",
+    "rating": 4.6,
+    "address": "Ruko Sutera Timur",
+    "recommended_for": [
+      "pecinta pedas",
+      "makan keluarga"
+    ],
+    "opening_time_hint": "10.00 - 22.00",
+    "special_feature": "Masakan khas Lombok autentik, Ayam Taliwangnya pedas mantap.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Two Stories Resto & Lounge",
+    "area": "Alam Sutera",
+    "category": "Western",
+    "tags": [
+      "hangout",
+      "lounge",
+      "vibe",
+      "modern"
+    ],
+    "Price": "100.000 - 250.000",
+    "rating": 4.4,
+    "address": "Alam Sutera Boulevard",
+    "recommended_for": [
+      "nongkrong malam",
+      "hangout teman"
+    ],
+    "opening_time_hint": "10.00 - 00.00",
+    "special_feature": "Resto dan lounge dengan suasana hangout malam yang seru.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Lemari Kopi",
+    "area": "BSD",
+    "category": "Kopi",
+    "tags": [
+      "manual brew",
+      "tenang",
+      "industrial",
+      "spesialis kopi"
+    ],
+    "Price": "35.000 - 75.000",
+    "rating": 4.7,
+    "address": "Jl. Griya Loka Raya, Sektor 1.1, BSD City",
+    "recommended_for": [
+      "pecinta kopi",
+      "nugas",
+      "me time"
+    ],
+    "opening_time_hint": "08:00 - 21:00",
+    "special_feature": "Salah satu pelopor kopi spesialis di BSD dengan atmosfer lemari kayu yang ikonik dan tenang.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sudutsatu Lakeside",
+    "area": "BSD",
+    "category": "Cafe",
+    "tags": [
+      "view danau",
+      "outdoor",
+      "aesthetic",
+      "hangout"
+    ],
+    "Price": "50.000 - 120.000",
+    "rating": 4.5,
+    "address": "The Breeze BSD City, Area Danau",
+    "recommended_for": [
+      "nongkrong sore",
+      "dating",
+      "foto-foto"
+    ],
+    "opening_time_hint": "10:00 - 22:00",
+    "special_feature": "Spot terbaik untuk melihat sunset di The Breeze dengan pemandangan langsung ke tepi danau.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Sembilan Coffee House BSD",
+    "area": "BSD",
+    "category": "Kopi",
+    "tags": [
+      "vintage",
+      "rumahan",
+      "cozy",
+      "manual brew"
+    ],
+    "Price": "30.000 - 65.000",
+    "rating": 4.6,
+    "address": "Ruko Golden Madrid, BSD City",
+    "recommended_for": [
+      "ngobrol santai",
+      "mahasiswa"
+    ],
+    "opening_time_hint": "07:00 - 22:00",
+    "special_feature": "Vibes retro yang sangat kuat, terasa seperti ngopi di teras rumah tahun 90-an.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "HideAway Coffee, Kitchen & Bar",
+    "area": "BSD",
+    "category": "Cafe & Bar",
+    "tags": [
+      "western",
+      "live music",
+      "malam",
+      "hidden gem"
+    ],
+    "Price": "75.000 - 200.000",
+    "rating": 4.4,
+    "address": "Jl. Pahlawan Seribu, Kawasan BSD",
+    "recommended_for": [
+      "hangout malam",
+      "dinner teman"
+    ],
+    "opening_time_hint": "11:00 - 00:00",
+    "special_feature": "Kombinasi tempat ngopi di siang hari dan bar santai dengan live music di malam hari.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "AGAIN | Coffee Sound",
+    "area": "Bintaro",
+    "category": "Kopi",
+    "tags": [
+      "musik",
+      "vinyl",
+      "hangout",
+      "audio"
+    ],
+    "Price": "40.000 - 90.000",
+    "rating": 4.6,
+    "address": "Bintaro Sektor 9",
+    "recommended_for": [
+      "pecinta musik",
+      "nongkrong malam"
+    ],
+    "opening_time_hint": "11:00 - 22:00",
+    "special_feature": "Menonjolkan kualitas sistem audio dan playlist musik yang dikurasi dengan sangat baik.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sudut Satu Bintaro",
+    "area": "Bintaro",
+    "category": "Cafe",
+    "tags": [
+      "modern",
+      "cozy",
+      "minimalis"
+    ],
+    "Price": "45.000 - 110.000",
+    "rating": 4.4,
+    "address": "Bintaro Sektor 7",
+    "recommended_for": [
+      "makan siang",
+      "ngobrol"
+    ],
+    "opening_time_hint": "09:00 - 22:00",
+    "special_feature": "Suasana yang hangat dengan pilihan menu makanan berat yang beragam.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Sembilan Coffee Bintaro",
+    "area": "Bintaro",
+    "category": "Kopi",
+    "tags": [
+      "klasik",
+      "lokal",
+      "santai"
+    ],
+    "Price": "30.000 - 60.000",
+    "rating": 4.5,
+    "address": "Bintaro Sektor 9",
+    "recommended_for": [
+      "nongkrong santai",
+      "mahasiswa"
+    ],
+    "opening_time_hint": "08:00 - 22:00",
+    "special_feature": "Area semi-outdoor yang asik buat diskusi panjang atau mengerjakan tugas.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Chill Bill Coffees & Platters",
+    "area": "Bintaro",
+    "category": "Cafe",
+    "tags": [
+      "platters",
+      "nyaman",
+      "rumahan"
+    ],
+    "Price": "50.000 - 130.000",
+    "rating": 4.5,
+    "address": "Bintaro Sektor 5",
+    "recommended_for": [
+      "makan bareng teman",
+      "keluarga"
+    ],
+    "opening_time_hint": "09:00 - 22:00",
+    "special_feature": "Spesialis menu platter (sharing) yang porsinya cocok dimakan ramai-ramai.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Kopi Sejiwa Bintaro",
+    "area": "Bintaro",
+    "category": "Kopi",
+    "tags": [
+      "hits",
+      "premium coffee",
+      "bandung brand"
+    ],
+    "Price": "50.000 - 120.000",
+    "rating": 4.7,
+    "address": "Bintaro Sektor 9",
+    "recommended_for": [
+      "hangout hits",
+      "dating"
+    ],
+    "opening_time_hint": "07:00 - 22:00",
+    "special_feature": "Cabang resmi dari brand populer asal Bandung dengan pelayanan barista berseragam ikonik.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Filosofi Kopi Bintaro",
+    "area": "Bintaro",
+    "category": "Kopi",
+    "tags": [
+      "populer",
+      "film",
+      "hangout",
+      "ikonik"
+    ],
+    "Price": "35.000 - 75.000",
+    "rating": 4.5,
+    "address": "Kawasan Bintaro Creative Village",
+    "recommended_for": [
+      "nongkrong",
+      "wisata kuliner"
+    ],
+    "opening_time_hint": "11:00 - 23:00",
+    "special_feature": "Brand legendaris dari film Filosofi Kopi dengan atmosfer yang sangat khas dan industrial.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "La acienda",
+    "area": "Bintaro",
+    "category": "Mexican/Western",
+    "tags": [
+      "mexican vibe",
+      "tacos",
+      "unik",
+      "outdoor"
+    ],
+    "Price": "80.000 - 180.000",
+    "rating": 4.6,
+    "address": "Bintaro Sektor 9 Area",
+    "recommended_for": [
+      "makan malam unik",
+      "pecinta kuliner meksiko"
+    ],
+    "opening_time_hint": "11:00 - 22:00",
+    "special_feature": "Dekorasi ala Meksiko yang kental dan menu taco/nachos yang sangat otentik.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Hava Cafe Bintaro",
+    "area": "Bintaro",
+    "category": "Cafe",
+    "tags": [
+      "aesthetic",
+      "pastel",
+      "hangout cantik"
+    ],
+    "Price": "50.000 - 120.000",
+    "rating": 4.4,
+    "address": "Bintaro Sektor 9",
+    "recommended_for": [
+      "hangout wanita",
+      "foto instagram"
+    ],
+    "opening_time_hint": "09:00 - 21:00",
+    "special_feature": "Desain interior dengan nuansa pastel yang cantik, sangat favorit untuk acara brunch atau bridal shower.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Bi Coffee Ciputat",
+    "area": "Ciputat",
+    "category": "Kopi",
+    "tags": [
+      "taman",
+      "outdoor luas",
+      "asri",
+      "hidden gem"
+    ],
+    "Price": "40.000 - 90.000",
+    "rating": 4.7,
+    "address": "Jl. Sukabakti No.1, Ciputat",
+    "recommended_for": [
+      "keluarga",
+      "ngadem sore",
+      "nongkrong santai"
+    ],
+    "opening_time_hint": "10:00 - 22:00",
+    "special_feature": "Memiliki area taman yang sangat luas dan asri di tengah padatnya Ciputat, vibes-nya seperti di puncak.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kopi Konnichiwa Ciputat",
+    "area": "Ciputat",
+    "category": "Kopi",
+    "tags": [
+      "jepang",
+      "cepat saji",
+      "murah"
+    ],
+    "Price": "20.000 - 45.000",
+    "rating": 4.4,
+    "address": "Jl. Ir H. Juanda, Ciputat",
+    "recommended_for": [
+      "take away",
+      "minum cepat"
+    ],
+    "opening_time_hint": "08:00 - 21:00",
+    "special_feature": "Menu kopi dengan tema Jepang yang unik dan harga sangat terjangkau bagi mahasiswa.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Titik Temu Coffee Ciputat",
+    "area": "Ciputat",
+    "category": "Kopi",
+    "tags": [
+      "minimalis",
+      "premium",
+      "hangout"
+    ],
+    "Price": "45.000 - 100.000",
+    "rating": 4.6,
+    "address": "Ciputat Area (Dekat Kampus)",
+    "recommended_for": [
+      "meeting",
+      "nongkrong keren"
+    ],
+    "opening_time_hint": "08:00 - 22:00",
+    "special_feature": "Cabang dari brand populer Bali/Jakarta yang menawarkan kualitas kopi premium di area Ciputat.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kopi Janji Jiwa Ciputat",
+    "area": "Ciputat",
+    "category": "Kopi",
+    "tags": [
+      "populer",
+      "cepat saji",
+      "murah"
+    ],
+    "Price": "18.000 - 40.000",
+    "rating": 4.3,
+    "address": "Jl. Raya Ciputat - Parung",
+    "recommended_for": [
+      "take away",
+      "pecinta kopi susu gula aren"
+    ],
+    "opening_time_hint": "07:00 - 21:00",
+    "special_feature": "Andalan kopi susu gula aren dengan banyak cabang yang mudah ditemukan.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kopi Kenangan Ciputat",
+    "area": "Ciputat",
+    "category": "Kopi",
+    "tags": [
+      "unicorn",
+      "cepat saji",
+      "konsisten"
+    ],
+    "Price": "20.000 - 45.000",
+    "rating": 4.4,
+    "address": "Jl. Ir H. Juanda, Ciputat",
+    "recommended_for": [
+      "take away",
+      "daily caffeine fix"
+    ],
+    "opening_time_hint": "07:00 - 22:00",
+    "special_feature": "Kopi susu 'Mantan' yang legendaris dengan kecepatan pelayanan yang tinggi.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kedai Kopi Djigo",
+    "area": "Jelupang",
+    "category": "Kopi",
+    "tags": [
+      "estetik",
+      "nongkrong",
+      "nugas"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.8,
+    "address": "Ruko Laverde",
+    "recommended_for": [
+      "kumpul",
+      "nongkrong",
+      "nugas"
+    ],
+    "opening_time_hint": "Pagi - Malam",
+    "special_feature": "Tempatnya estetik dan bersih, cocok untuk nongkrong dan nugas.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Panggilan Kopi",
+    "area": "Jelupang",
+    "category": "Kopi",
+    "tags": [
+      "outdoor",
+      "homey",
+      "estetik"
+    ],
+    "Price": "20.000 - 50.000",
+    "rating": 5.0,
+    "address": "Jl. Magnolia VI",
+    "recommended_for": [
+      "me time",
+      "nugas",
+      "WFO"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Nyaman dan bersih, bagus untuk wfo",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kopi Retro Serpong",
+    "area": "Pakualam",
+    "category": "Kopi",
+    "tags": [
+      "Retro",
+      "nongkrong",
+      "estetik"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.8,
+    "address": "Jl. Griya Hijau Raya, No.43",
+    "recommended_for": [
+      "kumpul",
+      "nongkrong"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Tempat yang estetik dengan tema retro, cocok untuk nongkrong dan melepas penat sehari-hari",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "tamy's matcha",
+    "area": "Alam Sutera",
+    "category": "Matcha",
+    "tags": [
+      "Matcha",
+      "healing",
+      "rileks"
+    ],
+    "Price": "75.000 - 100.000",
+    "rating": 4.9,
+    "address": "Jl. Leora Utara 6, No.12",
+    "recommended_for": [
+      "Santai",
+      "me time"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Tempat cocok untuk menikmati segelas matcha setelah bekerja",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Casabrew Coffee",
+    "area": "Pakualam",
+    "category": "Kopi",
+    "tags": [
+      "estetik",
+      "fancy",
+      "indoor"
+    ],
+    "Price": "30.000 - 200.000",
+    "rating": 5.0,
+    "address": "Ruko Crystal Lane No.48",
+    "recommended_for": [
+      "WFO",
+      "kumpul",
+      "me time"
+    ],
+    "opening_time_hint": "Pagi - Sore",
+    "special_feature": "Coffee Shop dengan nuansa eropa",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Bakso KOKO Gepeng Alam Sutera",
+    "area": "Alam Sutera",
+    "category": "Bakso",
+    "tags": [
+      "Bakso Gepeng",
+      "Nyaman"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.9,
+    "address": "Ruko Pasar 8",
+    "recommended_for": [
+      "Makan siang",
+      "Keluarga"
+    ],
+    "opening_time_hint": "Pagi - Sore",
+    "special_feature": "Bakso gepeng dengan kuah bening, cocok untuk makan siang bersama keluarga",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakso Big Top",
+    "area": "BSD",
+    "category": "Bakso",
+    "tags": [
+      "Bakso Urat",
+      "indoor",
+      "terjangkau"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.5,
+    "address": "Ruko Villa Melati MAS",
+    "recommended_for": [
+      "Makan siang",
+      "kumpul"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Makan siang dengan harga yang terjangkau",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakso 8 Wonogiri Alam Sutera",
+    "area": "Alam Sutera",
+    "category": "Bakso",
+    "tags": [
+      "Hiddengem",
+      "outdoor",
+      "Makan Siang"
+    ],
+    "Price": "15.000 - 25.000",
+    "rating": 5.0,
+    "address": "Kampung Margajaya No.15",
+    "recommended_for": [
+      "tempat singgah",
+      "makan siang",
+      "kumpul"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Bakso dan mie ayam khas Wonogiri",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Mie ayam Bakso Eyang Solo",
+    "area": "Pakualam",
+    "category": "Bakso",
+    "tags": [
+      "outdoor",
+      "fancy",
+      "Nyaman"
+    ],
+    "Price": "5.000 - 25.000",
+    "rating": 4.9,
+    "address": "Jl. Pd. Pakulonan",
+    "recommended_for": [
+      "Singgah",
+      "Kumpul",
+      "Sarapan"
+    ],
+    "opening_time_hint": "Pagi - Malam",
+    "special_feature": "Tempat nyaman dan fancy, bagus untuk tempat makan sekaligus tempat nongkrong",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Donat Gembul",
+    "area": "Paku Jaya",
+    "category": "Donat",
+    "tags": [
+      "Makanan manis",
+      "Terjangkau"
+    ],
+    "Price": "2.500 - 30.000",
+    "rating": 4.9,
+    "address": "Jl. Kayu Gede 2",
+    "recommended_for": [
+      "Bingkisan",
+      "Oleh-oleh",
+      "Camilan"
+    ],
+    "opening_time_hint": "Pagi - Sore",
+    "special_feature": "Donat dengan toping melimpah",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Ma&Mi donat dan bakery",
+    "area": "Lengkong",
+    "category": "Donat",
+    "tags": [
+      "Terjangkau",
+      "Makanan penutup"
+    ],
+    "Price": "6.000 - 60.000",
+    "rating": 4.9,
+    "address": "Jl. BSD Bintaro",
+    "recommended_for": [
+      "Bingkisan",
+      "Camilan"
+    ],
+    "opening_time_hint": "Pagi - Malam",
+    "special_feature": "Tempat donat dan bakery enak",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Maranggi Neng Aca",
+    "area": "Jelupang",
+    "category": "Sate",
+    "tags": [
+      "outdoor",
+      "Nyaman"
+    ],
+    "Price": "3.000 - 30.000",
+    "rating": 5.0,
+    "address": "Jl. Griya Asri Raya",
+    "recommended_for": [
+      "Nongkrong",
+      "Makan malam",
+      "Kumpul"
+    ],
+    "opening_time_hint": "Sore - Malam",
+    "special_feature": "Tempat yang nyaman, cocok untuk berkumpul",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Teras Maranggi Restoran",
+    "area": "Ciputat",
+    "category": "Sate",
+    "tags": [
+      "estetik",
+      "nyaman",
+      "Asri"
+    ],
+    "Price": "25.000 - 80.000",
+    "rating": 4.9,
+    "address": "Bintaro Sektor 9",
+    "recommended_for": [
+      "kumpul",
+      "makan siang"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Tempatnya asri, bagus untuk berkumpul bersama keluarga",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Warung Sate Maranggi Kang Omil",
+    "area": "Paku Jaya",
+    "category": "Sate",
+    "tags": [
+      "indoor",
+      "Nyaman",
+      "fancy"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.9,
+    "address": "Jl. Bayangkara Pusdiklantas",
+    "recommended_for": [
+      "Makan malam",
+      "Kumpul",
+      "Nongkrong"
+    ],
+    "opening_time_hint": "Sore - Malam",
+    "special_feature": "Tempat sate maranggi enak, bagus untuk makan malam",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Maranggi H Soleh",
+    "area": "Paku Jaya",
+    "category": "Sate",
+    "tags": [
+      "Nyaman",
+      "bersih",
+      "luas"
+    ],
+    "Price": "5.000 - 50.000",
+    "rating": 5.0,
+    "address": "Jl. Bulevard Graha Raya",
+    "recommended_for": [
+      "Makan Malam",
+      "Nongkrong"
+    ],
+    "opening_time_hint": "Sore - Malam",
+    "special_feature": "Tempat nyaman dan luas, enak untuk nongkrong",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate dan Bakut Tan Tek Gwan",
+    "area": "Jelupang",
+    "category": "Sate",
+    "tags": [
+      "Nyaman",
+      "Terjangkau"
+    ],
+    "Price": "25.000 - 75.000",
+    "rating": 4.6,
+    "address": "Jl. Villa Melati Mas Raya",
+    "recommended_for": [
+      "Kuliner",
+      "Kumpul",
+      "Makan Malam"
+    ],
+    "opening_time_hint": "Sore - Malam",
+    "special_feature": "Tempatnya nyaman, bagus untuk berkumpul",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Babi Panggang AS",
+    "area": "Pondok Jagung",
+    "category": "Babi Panggang",
+    "tags": [
+      "estetik",
+      "outdoor",
+      "luas"
+    ],
+    "Price": "50.000 - 75.000",
+    "rating": 5.0,
+    "address": "Jl. Regency Melati Mas",
+    "recommended_for": [
+      "Nongkrong",
+      "Santai"
+    ],
+    "opening_time_hint": "24 jam",
+    "special_feature": "Dengan tempat yang luas dan nyaman",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakut Mumu Restaurant",
+    "area": "Pakulonan",
+    "category": "Sate",
+    "tags": [
+      "Estetik",
+      "Nyaman",
+      "fancy"
+    ],
+    "Price": "50.000 - 75.000",
+    "rating": 4.3,
+    "address": "Jl. Raya Serpong Kilometer 73863",
+    "recommended_for": [
+      "Kumpul",
+      "singgah"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "tempat estetik, cocok untuk foto-foto",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Pasar Lama",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "fancy",
+      "nyaman",
+      "bersih"
+    ],
+    "Price": "50.000 - 75.000",
+    "rating": 4.6,
+    "address": "Pasar Modern BSD City",
+    "recommended_for": [
+      "Makan malam",
+      "Singgah"
+    ],
+    "opening_time_hint": "Malam",
+    "special_feature": "Tempat nyaman untuk makan malam keluarga",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Seblak&Coffee N.A",
+    "area": "Lengkong Gudang",
+    "category": "Seblak",
+    "tags": [
+      "Nyaman",
+      "Luas",
+      "fancy"
+    ],
+    "Price": "12.000 - 25.000",
+    "rating": 4.4,
+    "address": "Jl. Astek",
+    "recommended_for": [
+      "Nongkrong",
+      "Singgah"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Tempatnya nyaman dan cocok dimakan di cuaca yang dingin",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Seblak A'yo8",
+    "area": "Lengkong Wetan",
+    "category": "Seblak",
+    "tags": [
+      "Terjangkau",
+      "Pedas"
+    ],
+    "Price": "10.000 - 25.000",
+    "rating": 4.3,
+    "address": "Jl. Ahmad yasin",
+    "recommended_for": [
+      "Cuaca dingin",
+      "nongkrong"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Jagonya makanan pedas",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Seblak Princess Pamulang",
+    "area": "Buaran",
+    "category": "Seblak",
+    "tags": [
+      "fancy",
+      "luas",
+      "indoor"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.7,
+    "address": "Jl. Raya Puspitek",
+    "recommended_for": [
+      "Nongkrong",
+      "Kumpul",
+      "Diner"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Tempatnya asik, cocok untuk nongkrong dan mengerjakan tugas",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Hot Hot Seblak Prasmanan",
+    "area": "Pamulang",
+    "category": "Seblak",
+    "tags": [
+      "Fancy",
+      "Nyaman",
+      "Rapih"
+    ],
+    "Price": "2.000 - 30.000",
+    "rating": 4.8,
+    "address": "Bambu Apus",
+    "recommended_for": [
+      "Nyemil",
+      "nongkrong"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Suasana enak, bagus untuk nongkrong",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Seblak Shin_KIa",
+    "area": "Pamulang",
+    "category": "Seblak",
+    "tags": [
+      "Pedas",
+      "Nyaman",
+      "homey"
+    ],
+    "Price": "5.000 - 25.000",
+    "rating": 4.8,
+    "address": "Gg Panser",
+    "recommended_for": [
+      "Nyemil",
+      "Kuliner"
+    ],
+    "opening_time_hint": "Pagi - Sore",
+    "special_feature": "makanan pedas dengan nuansa rumahan",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Roti Bakar Keibar",
+    "area": "Pamulang",
+    "category": "Roti Bakar",
+    "tags": [
+      "Fancy",
+      "Viral",
+      "indoor"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.7,
+    "address": "Ruko Pamulang Permai 1",
+    "recommended_for": [
+      "Nongkrong",
+      "Nugas",
+      "WFO"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Dengan tempat yang Fancy, cocok buat kamu yang butuh tempat buat nugas dan kerja",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Roti Bakar Bandung Gan",
+    "area": "Ciputat",
+    "category": "Roti Bakar",
+    "tags": [
+      "indoor",
+      "Nyaman"
+    ],
+    "Price": "15.000 - 25.000",
+    "rating": 4.1,
+    "address": "Jl. Suka Makmur",
+    "recommended_for": [
+      "Nongkrong",
+      "Nugas",
+      "Kumpul"
+    ],
+    "opening_time_hint": "24 JAM",
+    "special_feature": "Tempatnya nyaman",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Roti Bakar Eddy Serpong",
+    "area": "Mekar Jaya",
+    "category": "Roti Bakar",
+    "tags": [
+      "Viral",
+      "Estetik",
+      "Fancy"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.5,
+    "address": "Jl. Ciater Raya",
+    "recommended_for": [
+      "Meeting",
+      "Nugas",
+      "WFO"
+    ],
+    "opening_time_hint": "Pagi - Malam",
+    "special_feature": "Tempat nyaman, cocok untuk bekerja",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Roti Bakar 88 Anggrek Loka",
+    "area": "BSD",
+    "category": "Roti Bakar",
+    "tags": [
+      "Viral",
+      "Fancy",
+      "Estetik"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.4,
+    "address": "Jl. Anggrek Loka",
+    "recommended_for": [
+      "Dinner",
+      "Meeting",
+      "Nongkrong"
+    ],
+    "opening_time_hint": "Pagi - Malam",
+    "special_feature": "Tempatnya Instagramable",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Roti Bakar Banana",
+    "area": "Pondok Aren",
+    "category": "Roti Bakar",
+    "tags": [
+      "Fancy",
+      "Estetik"
+    ],
+    "Price": "40.000 - 105.000",
+    "rating": 5.0,
+    "address": "Jl. Bintaro Utama 3A No.25",
+    "recommended_for": [
+      "Nongkrong",
+      "Nugas"
+    ],
+    "opening_time_hint": "24 JAM",
+    "special_feature": "cocok untuk kumpul",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "MBS Seafood N Coffeetery",
+    "area": "Pondok Jagung",
+    "category": "Seafood",
+    "tags": [
+      "Nyaman",
+      "Luas",
+      "Fancy"
+    ],
+    "Price": "30.000 - 100.000",
+    "rating": 4.9,
+    "address": "Jl. Raya Serpong Kilometer",
+    "recommended_for": [
+      "Makan Malam",
+      "Nongkrong"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Tempatnya enak dan luas",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sentosa Seafood Bintaro",
+    "area": "Ciputat",
+    "category": "Seafood",
+    "tags": [
+      "Fancy",
+      "Estetik",
+      "Nyaman"
+    ],
+    "Price": "15.000 - 118.000",
+    "rating": 4.9,
+    "address": "Jl. Cenderawasi Raya No.123",
+    "recommended_for": [
+      "Makan Malam",
+      "Kumpul Keluarga"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Interior yang fancy cocok untuk dinner",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "D'Jajan Seafood Pamulang",
+    "area": "Pamulang",
+    "category": "Seafood",
+    "tags": [
+      "Luas",
+      "Nyaman"
+    ],
+    "Price": "55.000 - 219.000",
+    "rating": 4.7,
+    "address": "Jl. Siliwangi",
+    "recommended_for": [
+      "Makan malam",
+      "Kumpul Keluarga"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "bagus untuk makan malam bersama keluarga",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Apong Seafood Cabang Makasar",
+    "area": "Pakulonan",
+    "category": "Seafood",
+    "tags": [
+      "Fancy",
+      "Bakaran",
+      "Estetik"
+    ],
+    "Price": "125.000 - 250.000",
+    "rating": 4.4,
+    "address": "Living World Alam Sutera",
+    "recommended_for": [
+      "Dinner",
+      "Kumpul Keluarga"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Tempatnya nyaman dan fancy",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Seafood 69 Graha Raya Regency",
+    "area": "Paku jaya",
+    "category": "Seafood",
+    "tags": [
+      "Nyaman",
+      "Bakaran",
+      "Luas"
+    ],
+    "Price": "5.000 - 50.000",
+    "rating": 4.2,
+    "address": "Ruko Orlin Arcade 1",
+    "recommended_for": [
+      "Makan malam",
+      "Kumpul Keluarga"
+    ],
+    "opening_time_hint": "Sore - Malam",
+    "special_feature": "spesialis seafood bakaran",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Iga Bakar Rempah",
+    "area": "Pakulonan",
+    "category": "Iga Bakar",
+    "tags": [
+      "Fancy",
+      "Bakaran",
+      "Pedas"
+    ],
+    "Price": "50.000 - 75.000",
+    "rating": 4.9,
+    "address": "Alam Sutera Town Center",
+    "recommended_for": [
+      "Makan malam",
+      "Keluarga",
+      "Nongkrong"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Iga bakaran dengan bumbu pedas",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sop Iga Bakar Dapoer Ani",
+    "area": "Pamulang",
+    "category": "Iga Bakar",
+    "tags": [
+      "Bakaran",
+      "Pedas",
+      "Nyaman"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.8,
+    "address": "Ruko Pamulang Permai",
+    "recommended_for": [
+      "Makan Malam",
+      "Kumpul"
+    ],
+    "opening_time_hint": "Sore - Malam",
+    "special_feature": "Iga bakar kaki lima",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Iga Bakar Gayatri",
+    "area": "Pondok Aren",
+    "category": "Iga Bakar",
+    "tags": [
+      "Nyaman",
+      "Pedas",
+      "Open kitchen"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.8,
+    "address": "Taman Jajan Bintaro",
+    "recommended_for": [
+      "Santai",
+      "Kumpul"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Iga bakar dengan open kitchen",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Iga Bakar Ira",
+    "area": "Pondok Aren",
+    "category": "Iga Bakar",
+    "tags": [
+      "Fancy",
+      "Luas",
+      "Nyaman"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.9,
+    "address": "Taman jajan CBD",
+    "recommended_for": [
+      "Dinner",
+      "Kuliner"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Tempatnya luas dan nyaman, cocok untuk Kumpul bersama keluarga atau teman",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Warung Iga Eco",
+    "area": "Ciater",
+    "category": "Iga Bakar",
+    "tags": [
+      "Estetik",
+      "Fancy",
+      "Luas"
+    ],
+    "Price": "25.000 - 60.000",
+    "rating": 4.7,
+    "address": "Jl. Masjid Pondok Sentul",
+    "recommended_for": [
+      "Kuliner",
+      "Santai Keluarga"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Warung Iga cocok untuk semua kalangan",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Betawi Waroeng Dalem",
+    "area": "Ciater",
+    "category": "Soto",
+    "tags": [
+      "Fancy",
+      "Luas",
+      "Nyaman"
+    ],
+    "Price": "15.000 - 50.000",
+    "rating": 4.9,
+    "address": "Jl. Masjid Ciater",
+    "recommended_for": [
+      "Kuliner",
+      "Nongkrong"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Soto hangat dan tempat yang pas bagus, cocok untuk kumpul",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Betawi Babeh Sardi",
+    "area": "Setu",
+    "category": "Soto",
+    "tags": [
+      "Rapih",
+      "Nyaman",
+      "Luas"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.8,
+    "address": "Jl. Puspitek Raya No.81A",
+    "recommended_for": [
+      "Makan Siang",
+      "Nongkrong"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "cocok untuk kumpul bersama keluarga",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Betawi Merica",
+    "area": "Lengkong Wetan",
+    "category": "Soto",
+    "tags": [
+      "Homey",
+      "Estetik",
+      "Fancy"
+    ],
+    "Price": "50.000 - 75.000",
+    "rating": 4.3,
+    "address": "BSD Plaza",
+    "recommended_for": [
+      "Kuliner",
+      "Event",
+      "Makan Siang"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Tempat nyaman dan estetik",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Betawi Bang Jaro",
+    "area": "Lengkong Gudang Timur",
+    "category": "Soto",
+    "tags": [
+      "Luas",
+      "Nyaman"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.7,
+    "address": "Taman Jajan Tunas",
+    "recommended_for": [
+      "Makan Siang",
+      "Kuliner"
+    ],
+    "opening_time_hint": "Siang - Sore",
+    "special_feature": "Dengan tempat luas dan nyaman cocok untuk kuliner bersama teman",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sop/Soto Betawi ibu Yati",
+    "area": "Pamulang",
+    "category": "Soto",
+    "tags": [
+      "Nyaman",
+      "Luas",
+      "Viral"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.7,
+    "address": "Jl. Permai Raya No.33",
+    "recommended_for": [
+      "Makan malam",
+      "Kumpul"
+    ],
+    "opening_time_hint": "Siang - Malam",
+    "special_feature": "Luas dan nyaman untuk kumpul bersama teman",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bambu Dimsum",
+    "area": "Lengkong Gudang",
+    "category": "Dimsum",
+    "tags": [
+      "Kuliner",
+      "Estetik",
+      "Homey"
+    ],
+    "Price": "3.000 - 25.000",
+    "rating": 5.0,
+    "address": "Jl. Lengkong Gudang Timur 2",
+    "recommended_for": [
+      "Event",
+      "kuliner"
+    ],
+    "opening_time_hint": "siang - Malam",
+    "special_feature": "Dimsum enak dan murah",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "dimsuminaja._",
+    "area": "Pondok Jagung",
+    "category": "Dimsum",
+    "tags": [
+      "Terjangkau",
+      "Bingkisan"
+    ],
+    "Price": "13.000 - 135.000",
+    "rating": 5.0,
+    "address": "Jl. Enam Sumarna",
+    "recommended_for": [
+      "Kuliner",
+      "Bingkisan"
+    ],
+    "opening_time_hint": "Siang - Sore",
+    "special_feature": "Dimsum rumahan cocok sebagai bingkisan untuk orang tersayang",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Dimsum Mentai Dapur Lamarose",
+    "area": "Jelupang",
+    "category": "Dimsum",
+    "tags": [
+      "Kuliner",
+      "Nyaman"
+    ],
+    "Price": "17.000 - 95.000",
+    "rating": 4.9,
+    "address": "Jl. Attaqwa No.43",
+    "recommended_for": [
+      "Kuliner",
+      "Acara"
+    ],
+    "opening_time_hint": "Pagi - Malam",
+    "special_feature": "Dimsum panas dengan saus mentai yang menggugah",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Come-Xia Artisan Dimsum",
+    "area": "Pakualam",
+    "category": "Dimsum",
+    "tags": [
+      "Fancy",
+      "Estetik",
+      "Viral"
+    ],
+    "Price": "25.000 - 175.000",
+    "rating": 4.7,
+    "address": "Yukata Swites",
+    "recommended_for": [
+      "Nongkrong",
+      "Acara",
+      "Kumpul"
+    ],
+    "opening_time_hint": "Pagi - Malam",
+    "special_feature": "chiness dimsum",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Dimsum Mamochi",
+    "area": "Pondok Aren",
+    "category": "Dimsum",
+    "tags": [
+      "Nyaman",
+      "Luas"
+    ],
+    "Price": "13.000 - 62.000",
+    "rating": 4.7,
+    "address": "Ruko Regia Boulvard",
+    "recommended_for": [
+      "Kuliner",
+      "Nongkrong"
+    ],
+    "opening_time_hint": "Pagi - Malam",
+    "special_feature": "Dimsum enak di makan setelah hujan",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakso Pak De Ciater",
+    "area": "BSD",
+    "category": "Bakso",
+    "tags": [
+      "urat nendang",
+      "hidden location",
+      "murah",
+      "lokal",
+      "hidden gem"
+    ],
+    "Price": "20.000 - 35.000",
+    "rating": 4.7,
+    "address": "Jl. Ciater Raya (Masuk gang dekat sekolah), Serpong",
+    "recommended_for": [
+      "pecinta bakmi bakso",
+      "makan siang",
+      "anak kos"
+    ],
+    "opening_time_hint": "Buka Pagi - Sore",
+    "special_feature": "Bakso uratnya legendaris di kalangan warga lokal, teksturnya kasar tapi empuk banget.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Betawi Bang Agus",
+    "area": "Pamulang",
+    "category": "Soto",
+    "tags": [
+      "creamy",
+      "daging royal",
+      "hidden spot",
+      "legendaris",
+      "hidden gem"
+    ],
+    "Price": "25.000 - 45.000",
+    "rating": 4.8,
+    "address": "Jl. Pajajaran, Pamulang (Dekat RSUD)",
+    "recommended_for": [
+      "makan siang",
+      "pecinta soto santan",
+      "keluarga"
+    ],
+    "opening_time_hint": "09:00 - 16:00",
+    "special_feature": "Kuah santannya kental gurih, potongan dagingnya besar-besar dan selalu empuk.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Padang Inyiak Daging",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "otentik",
+      "bumbu kental",
+      "ruko",
+      "pedas",
+      "hidden gem"
+    ],
+    "Price": "30.000 - 55.000",
+    "rating": 4.6,
+    "address": "Ruko Cordoba, Blok F No. 1, BSD City",
+    "recommended_for": [
+      "dinner",
+      "pecinta sate padang",
+      "makan malam"
+    ],
+    "opening_time_hint": "Buka Sore - Malam",
+    "special_feature": "Bumbu sate padangnya sangat kental dan aromatik, dagingnya gak alot sama sekali.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakso Mas Kumis",
+    "area": "BSD",
+    "category": "Bakso",
+    "tags": [
+      "wonogiri",
+      "seger",
+      "ruko lama",
+      "legend",
+      "hidden gem"
+    ],
+    "Price": "25.000 - 40.000",
+    "rating": 4.5,
+    "address": "Ruko Golden Madrid 1, BSD City",
+    "recommended_for": [
+      "lunch",
+      "comfort food",
+      "warga ruko"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (10:00 - 20:00)",
+    "special_feature": "Tipikal bakso Wonogiri yang kuahnya bening tapi kaldu sapinya kerasa banget.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Maranggi Tukang Masak",
+    "area": "Gading Serpong",
+    "category": "Sate",
+    "tags": [
+      "maranggi",
+      "tender",
+      "sambal tomat",
+      "open air",
+      "hidden gem"
+    ],
+    "Price": "40.000 - 80.000",
+    "rating": 4.7,
+    "address": "Jl. Scientia Boulevard (Dekat perbatasan BSD)",
+    "recommended_for": [
+      "keluarga",
+      "makan malam",
+      "pecinta daging"
+    ],
+    "opening_time_hint": "17:00 - 22:00",
+    "special_feature": "Dagingnya sudah dimarinasi dengan bumbu rempah yang meresap, dimakan pake sambal tomat segar.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Kudus Menara",
+    "area": "BSD",
+    "category": "Soto",
+    "tags": [
+      "porsi kecil",
+      "sate-satean",
+      "sarapan",
+      "jawa tengah",
+      "hidden gem"
+    ],
+    "Price": "15.000 - 40.000",
+    "rating": 4.5,
+    "address": "Ruko Golden Madrid 2, BSD City",
+    "recommended_for": [
+      "sarapan",
+      "makan santai",
+      "keluarga"
+    ],
+    "opening_time_hint": "Pagi - Siang",
+    "special_feature": "Soto khas Kudus dengan mangkok kecil, pilihan sate paru dan sate kerangnya juara.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakso Gepeng Jangkung",
+    "area": "BSD",
+    "category": "Bakso",
+    "tags": [
+      "bakso gepeng",
+      "kaldu jernih",
+      "hidden ruko",
+      "pontianak style",
+      "hidden gem"
+    ],
+    "Price": "30.000 - 50.000",
+    "rating": 4.6,
+    "address": "Ruko Versailles, BSD City",
+    "recommended_for": [
+      "pencari bakmi/bakso",
+      "makan siang",
+      "diet santai"
+    ],
+    "opening_time_hint": "10:00 - 19:00",
+    "special_feature": "Bakso gepengnya punya tekstur unik dan kuah kaldu yang sangat bersih rasanya.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Kambing Bang Rio",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "kambing muda",
+      "hotplate",
+      "empuk",
+      "hidden spot",
+      "hidden gem"
+    ],
+    "Price": "50.000 - 110.000",
+    "rating": 4.4,
+    "address": "Jl. Kencana Loka, Sektor 12 (Belakang ruko)",
+    "recommended_for": [
+      "pecinta kambing",
+      "keluarga",
+      "makan malam"
+    ],
+    "opening_time_hint": "16:00 - 22:00",
+    "special_feature": "Spesialis kambing muda yang disajikan di atas hotplate, lemaknya melting di mulut.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Soto Paru Pak Sadari",
+    "area": "Bintaro",
+    "category": "Soto",
+    "tags": [
+      "paru goreng",
+      "legendaris",
+      "khas boyolali",
+      "sarapan",
+      "hidden gem"
+    ],
+    "Price": "20.000 - 40.000",
+    "rating": 4.7,
+    "address": "Jl. Kesehatan Raya (Dekat Bintaro Sektor 1)",
+    "recommended_for": [
+      "sarapan",
+      "pecinta jeroan",
+      "lokal foodies"
+    ],
+    "opening_time_hint": "06:00 - 13:00",
+    "special_feature": "Paru gorengnya super krispi dan kuah sotonya bening menyegarkan.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi & Bakso Wonogiri Pak Giri",
+    "area": "Serpong",
+    "category": "Bakso",
+    "tags": [
+      "asli wonogiri",
+      "hidden gang",
+      "murah",
+      "porsi banyak",
+      "hidden gem"
+    ],
+    "Price": "15.000 - 25.000",
+    "rating": 4.5,
+    "address": "Jl. Raya Serpong (Masuk gang samping dealer)",
+    "recommended_for": [
+      "mahasiswa",
+      "makan siang murah",
+      "pecinta mie ayam"
+    ],
+    "opening_time_hint": "Pagi - Malam",
+    "special_feature": "Meskipun di dalam gang, selalu ramai karena porsinya yang 'bar-bar' dan harga sangat murah.",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Sate Padang Pariaman (Kencana Loka)",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "lidah sapi",
+      "pedas mantap",
+      "pinggir jalan",
+      "hidden spot",
+      "hidden gem"
+    ],
+    "Price": "25.000 - 45.000",
+    "rating": 4.4,
+    "address": "Jl. Kencana Loka (Dekat perempatan sektor 12)",
+    "recommended_for": [
+      "jajan malam",
+      "pecinta lidah sapi",
+      "pedas lovers"
+    ],
+    "opening_time_hint": "18:00 - 23:00",
+    "special_feature": "Sate lidahnya sangat lembut, bumbunya punya kick pedas yang lebih kuat dibanding yang lain.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Ayam Ambengan Pak Sadi (Cabang Kecil)",
+    "area": "BSD",
+    "category": "Soto",
+    "tags": [
+      "koya melimpah",
+      "surabaya",
+      "seger",
+      "hidden ruko",
+      "hidden gem"
+    ],
+    "Price": "30.000 - 50.000",
+    "rating": 4.6,
+    "address": "Ruko Golden Road (Belakang ITC BSD)",
+    "recommended_for": [
+      "makan siang",
+      "pecinta koya",
+      "khas surabaya"
+    ],
+    "opening_time_hint": "09:00 - 18:00",
+    "special_feature": "Koyanya bisa ambil sepuasnya, membuat kuah soto ayamnya jadi super kental dan gurih.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakso Medan Afui",
+    "area": "BSD",
+    "category": "Bakso",
+    "tags": [
+      "halal",
+      "bakso ikan/sapi",
+      "pontianak vibe",
+      "quiet",
+      "hidden gem"
+    ],
+    "Price": "35.000 - 60.000",
+    "rating": 4.3,
+    "address": "Ruko Granada, BSD City",
+    "recommended_for": [
+      "makan siang tenang",
+      "keluarga",
+      "pecinta bakso medan"
+    ],
+    "opening_time_hint": "10:00 - 20:00",
+    "special_feature": "Punya varian bakso ikan yang kenyal dan kuah kaldu yang tidak berminyak.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Taichan Bang Dul (Hidden Spot)",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "pedas gila",
+      "taichan",
+      "anak muda",
+      "hidden street food",
+      "hidden gem"
+    ],
+    "Price": "20.000 - 40.000",
+    "rating": 4.4,
+    "address": "Area ruko ITC BSD (Samping pintu keluar)",
+    "recommended_for": [
+      "nongkrong malam",
+      "pedas lovers",
+      "anak muda"
+    ],
+    "opening_time_hint": "19:00 - 01:00",
+    "special_feature": "Sambalnya terkenal sangat pedas, sate kulitnya digoreng garing sempurna.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Tangkar Ibu Haji",
+    "area": "Ciputat",
+    "category": "Soto",
+    "tags": [
+      "iga sapi",
+      "santan kuning",
+      "hidden ruko",
+      "authentic",
+      "hidden gem"
+    ],
+    "Price": "35.000 - 65.000",
+    "rating": 4.7,
+    "address": "Jl. Ir. H. Juanda (Dekat Pasar Ciputat)",
+    "recommended_for": [
+      "makan siang",
+      "pecinta iga",
+      "local culinary"
+    ],
+    "opening_time_hint": "08:00 - 16:00",
+    "special_feature": "Soto tangkar dengan kuah kuning yang kaya rempah dan daging iga yang copot dari tulang.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakso Solo Mas No",
+    "area": "BSD",
+    "category": "Bakso",
+    "tags": [
+      "solo asli",
+      "tetelan melimpah",
+      "hidden garden",
+      "murah",
+      "hidden gem"
+    ],
+    "Price": "20.000 - 35.000",
+    "rating": 4.5,
+    "address": "Jl. Palm (Dekat area sekolah Ora Et Labora)",
+    "recommended_for": [
+      "tetelan lovers",
+      "anak sekolah",
+      "makan siang"
+    ],
+    "opening_time_hint": "Pagi - Sore",
+    "special_feature": "Kalau beli di sini, tetelannya dikasih melimpah banget sampe nutupin baksonya.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Mie Agih (Non-Halal)",
+    "area": "BSD",
+    "category": "Soto",
+    "tags": [
+      "bogor style",
+      "pork",
+      "hidden ruko",
+      "legendary",
+      "hidden gem"
+    ],
+    "Price": "40.000 - 80.000",
+    "rating": 4.7,
+    "address": "Ruko Golden Madrid, BSD City",
+    "recommended_for": [
+      "pecinta kuliner non-halal",
+      "keluarga",
+      "sarapan"
+    ],
+    "opening_time_hint": "08:00 - 15:00",
+    "special_feature": "Soto mie Bogor versi non-halal paling terkenal di BSD, rasanya sangat otentik.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Ayam H. Ishak",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "pasar modern",
+      "legendaris",
+      "bumbu kacang",
+      "malam",
+      "hidden gem"
+    ],
+    "Price": "25.000 - 45.000",
+    "rating": 4.8,
+    "address": "Pasar Modern BSD (Area tenda malam)",
+    "recommended_for": [
+      "pecinta sate ayam",
+      "wisata kuliner malam",
+      "keluarga"
+    ],
+    "opening_time_hint": "18:00 - 23:00",
+    "special_feature": "Antriannya panjang tapi sebanding, bumbu kacangnya sangat halus dan kental.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakso Malang Cak Kris",
+    "area": "BSD",
+    "category": "Bakso",
+    "tags": [
+      "malang asli",
+      "siomay goreng",
+      "seger",
+      "hidden ruko",
+      "hidden gem"
+    ],
+    "Price": "25.000 - 45.000",
+    "rating": 4.4,
+    "address": "Ruko Anggrek Loka, BSD City",
+    "recommended_for": [
+      "lunch",
+      "pecinta gorengan bakso",
+      "keluarga"
+    ],
+    "opening_time_hint": "10:00 - 20:00",
+    "special_feature": "Punya varian bakwan dan siomay goreng yang sangat renyah dan tidak berminyak.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Banjar Nyaman",
+    "area": "BSD",
+    "category": "Soto",
+    "tags": [
+      "khas kalimantan",
+      "kuah susu",
+      "hidden gem",
+      "authentic",
+      "hidden gem"
+    ],
+    "Price": "35.000 - 60.000",
+    "rating": 4.6,
+    "address": "Ruko Golden Boulevard, BSD City",
+    "recommended_for": [
+      "pecinta kuliner nusantara",
+      "lunch",
+      "perantau kalimantan"
+    ],
+    "opening_time_hint": "09:00 - 17:00",
+    "special_feature": "Kuah sotonya pake campuran susu dan telur bebek, sangat gurih dan khas Kalimantan.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Maranggi Bu Nur",
+    "area": "Pamulang",
+    "category": "Sate",
+    "tags": [
+      "maranggi asli",
+      "hidden yard",
+      "homey",
+      "murah",
+      "hidden gem"
+    ],
+    "Price": "30.000 - 60.000",
+    "rating": 4.5,
+    "address": "Jl. Pinus, Pamulang Barat",
+    "recommended_for": [
+      "keluarga",
+      "makan siang santai",
+      "pecinta sate"
+    ],
+    "opening_time_hint": "11:00 - 20:00",
+    "special_feature": "Lokasinya di halaman rumah, suasananya tenang banget dan satenya empuk meresap.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakso Urat Mas Nan",
+    "area": "BSD",
+    "category": "Bakso",
+    "tags": [
+      "urat gede",
+      "hidden spot",
+      "pedas",
+      "lokal",
+      "hidden gem"
+    ],
+    "Price": "20.000 - 35.000",
+    "rating": 4.4,
+    "address": "Jl. Letnan Sutopo (Dekat Polsek Serpong)",
+    "recommended_for": [
+      "lunch",
+      "pecinta bakso urat",
+      "hemat"
+    ],
+    "opening_time_hint": "10:00 - 19:00",
+    "special_feature": "Bakso uratnya ukurannya jumbo dan isian uratnya kasar, cocok buat yang suka tekstur.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Padang H. Bang Karto",
+    "area": "BSD",
+    "category": "Soto",
+    "tags": [
+      "daging krispi",
+      "paru krispi",
+      "hidden ruko",
+      "seger",
+      "hidden gem"
+    ],
+    "Price": "35.000 - 55.000",
+    "rating": 4.6,
+    "address": "Ruko Bidex, BSD City",
+    "recommended_for": [
+      "breakfast",
+      "lunch",
+      "pecinta soto padang"
+    ],
+    "opening_time_hint": "08:00 - 15:00",
+    "special_feature": "Daging sotonya digoreng dulu sampai krispi, dipadukan kuah bening rempah yang kuat.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Klatak Pak Jede (Branch)",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "klatak",
+      "minimalist",
+      "jogja style",
+      "hidden area",
+      "hidden gem"
+    ],
+    "Price": "45.000 - 90.000",
+    "rating": 4.5,
+    "address": "Area ruko Sektor 7 BSD (Masuk dalam)",
+    "recommended_for": [
+      "pecinta kambing",
+      "keluarga",
+      "kangen jogja"
+    ],
+    "opening_time_hint": "11:00 - 21:00",
+    "special_feature": "Sate kambing yang cuma dibumbui garam dan dibakar pake jeruji besi, otentik Jogja.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakso Samrat (Versailles Hidden Corner)",
+    "area": "BSD",
+    "category": "Bakso",
+    "tags": [
+      "kental",
+      "iga sapi",
+      "fancy bakso",
+      "ruko pojok",
+      "hidden gem"
+    ],
+    "Price": "50.000 - 90.000",
+    "rating": 4.6,
+    "address": "Ruko Versailles Blok FB, BSD City",
+    "recommended_for": [
+      "pecinta bakso mewah",
+      "dinner",
+      "keluarga"
+    ],
+    "opening_time_hint": "10:00 - 22:00",
+    "special_feature": "Kuahnya sangat kental kaldu dan porsinya besar, meskipun brand besar lokasinya di pojokan ruko yang tenang.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Mie Bogor Kang Ismet",
+    "area": "Serpong",
+    "category": "Soto",
+    "tags": [
+      "hidden street",
+      "murah",
+      "porsi melimpah",
+      "seger",
+      "hidden gem"
+    ],
+    "Price": "18.000 - 25.000",
+    "rating": 4.4,
+    "address": "Jl. Raya Serpong (Belakang pos polisi Serpong)",
+    "recommended_for": [
+      "makan siang murah",
+      "pecinta soto mie",
+      "pekerja lapangan"
+    ],
+    "opening_time_hint": "Pagi - Siang",
+    "special_feature": "Harganya sangat ekonomis tapi porsi mienya banyak banget dan dagingnya gak pelit.",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Sate Babi Ko Encung (Non-Halal)",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "babi",
+      "manis gurih",
+      "hidden gem",
+      "legendary",
+      "hidden gem"
+    ],
+    "Price": "40.000 - 90.000",
+    "rating": 4.7,
+    "address": "Jl. Raya Serpong (Masuk jalan kecil dekat pasar lama)",
+    "recommended_for": [
+      "pecinta kuliner non-halal",
+      "wisata kuliner",
+      "makan malam"
+    ],
+    "opening_time_hint": "17:00 - 22:00",
+    "special_feature": "Sate babi legendaris dengan bumbu kecap rahasia yang meresap sampai ke dalam daging.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Lamongan Cak Man",
+    "area": "BSD",
+    "category": "Soto",
+    "tags": [
+      "koya",
+      "ayam kampung",
+      "hidden ruko",
+      "murah",
+      "hidden gem"
+    ],
+    "Price": "20.000 - 35.000",
+    "rating": 4.5,
+    "address": "Ruko Golden Madrid 1 (Lantai bawah)",
+    "recommended_for": [
+      "lunch",
+      "hemat",
+      "pecinta soto ayam"
+    ],
+    "opening_time_hint": "08:00 - 16:00",
+    "special_feature": "Soto Lamongan paling 'proper' di area ruko dengan taburan koya yang gurih pisan.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakso Granat",
+    "area": "Pamulang",
+    "category": "Bakso",
+    "tags": [
+      "pedas isian",
+      "urat",
+      "hidden gem",
+      "anak muda",
+      "hidden gem"
+    ],
+    "Price": "20.000 - 40.000",
+    "rating": 4.3,
+    "address": "Jl. Surya Kencana, Pamulang",
+    "recommended_for": [
+      "pecinta pedas",
+      "nongkrong sore",
+      "mahasiswa"
+    ],
+    "opening_time_hint": "11:00 - 21:00",
+    "special_feature": "Bakso besarnya diisi dengan ulekan cabai rawit yang meledak di mulut saat digigit.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Warung Tuman",
+    "area": "BSD",
+    "category": "Masakan Nusantara",
+    "tags": [
+      "ndeso",
+      "hidden path",
+      "outdoor",
+      "masakan rumah",
+      "hidden gem"
+    ],
+    "Price": "30.000 - 75.000",
+    "rating": 4.7,
+    "address": "Jl. Ciater Tengah, Serpong (Masuk gang kecil)",
+    "recommended_for": [
+      "keluarga",
+      "pecinta kuliner tradisional",
+      "suasana asri"
+    ],
+    "opening_time_hint": "Buka Selasa - Minggu (09:00 - 17:00)",
+    "special_feature": "Lokasinya beneran tersembunyi di balik hutan kota, menu andalannya Mangut Pari dan Ayam Kampung.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Butler's Coffee",
+    "area": "BSD",
+    "category": "Kopi & Brunch",
+    "tags": [
+      "quiet",
+      "specialty coffee",
+      "minimalist",
+      "nugas",
+      "hidden gem"
+    ],
+    "Price": "40.000 - 100.000",
+    "rating": 4.5,
+    "address": "Ruko Icon Business Park, BSD City",
+    "recommended_for": [
+      "pecinta kopi",
+      "remote worker",
+      "introvert"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (08:00 - 20:00)",
+    "special_feature": "Suasananya sangat tenang dan profesional, cocok buat yang cari ketenangan di tengah BSD.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi Phing",
+    "area": "BSD",
+    "category": "Bakmi",
+    "tags": [
+      "non-halal",
+      "comfort food",
+      "legendary taste",
+      "ruko",
+      "hidden gem"
+    ],
+    "Price": "35.000 - 60.000",
+    "rating": 4.6,
+    "address": "Ruko Golden Madrid, BSD City",
+    "recommended_for": [
+      "sarapan",
+      "pencari bakmi otentik",
+      "keluarga"
+    ],
+    "opening_time_hint": "Pagi - Sore",
+    "special_feature": "Salah satu bakmi legendaris di ruko lama BSD yang rasanya konsisten sejak dulu.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Yamalu",
+    "area": "Bintaro",
+    "category": "Cafe & Resto",
+    "tags": [
+      "garden",
+      "hidden entrance",
+      "chill",
+      "hutan",
+      "hidden gem"
+    ],
+    "Price": "50.000 - 150.000",
+    "rating": 4.5,
+    "address": "Jl. Deplu Raya No. 16, Bintaro",
+    "recommended_for": [
+      "dating",
+      "healing tipis-tipis",
+      "pecinta taman"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (11:00 - 21:00)",
+    "special_feature": "Pintu masuknya cuma pager rumah biasa, tapi di dalemnya ada taman luas banget yang super adem.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "After Friday Coffee (AF-CO)",
+    "area": "Gading Serpong",
+    "category": "Kopi",
+    "tags": [
+      "monochrome",
+      "minimalist",
+      "iconic building",
+      "fotogenic",
+      "hidden gem"
+    ],
+    "Price": "40.000 - 90.000",
+    "rating": 4.4,
+    "address": "South Goldfinch, Gading Serpong",
+    "recommended_for": [
+      "pecinta konten",
+      "arsitek",
+      "ngopi sore"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (07:00 - 21:00)",
+    "special_feature": "Desain bangunannya sangat unik dan serba putih-hitam, sangat estetik untuk foto produk atau OOTD.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Rummah Go'A",
+    "area": "Ciputat",
+    "category": "Cafe & Galeri",
+    "tags": [
+      "vintage",
+      "artistic",
+      "pinggir rel",
+      "classic",
+      "hidden gem"
+    ],
+    "Price": "25.000 - 60.000",
+    "rating": 4.3,
+    "address": "Jl. Jurang Mangu No. 1 (Dekat Stasiun Jurangmangu)",
+    "recommended_for": [
+      "pecinta seni",
+      "nongkrong santai",
+      "pencari suasana beda"
+    ],
+    "opening_time_hint": "Buka Siang - Malam",
+    "special_feature": "Milik aktor Dik Doank, tempatnya penuh barang antik dan punya view kereta lewat tepat di samping meja.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Gudeg Bu DIY",
+    "area": "BSD",
+    "category": "Masakan Jawa",
+    "tags": [
+      "tradisional",
+      "authentic",
+      "murah",
+      "hidden ruko",
+      "hidden gem"
+    ],
+    "Price": "20.000 - 45.000",
+    "rating": 4.8,
+    "address": "Ruko Golden Madrid 2, BSD City",
+    "recommended_for": [
+      "makan siang",
+      "pecinta gudeg Jogja",
+      "hemat"
+    ],
+    "opening_time_hint": "Pagi sampai habis (biasanya jam 2 siang tutup)",
+    "special_feature": "Gudegnya tipe kering yang sangat otentik Jogja, jarang ada yang tahu di area ruko ini.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Little Talk Coffee",
+    "area": "BSD",
+    "category": "Kopi",
+    "tags": [
+      "cozy",
+      "inside bookstore",
+      "quiet",
+      "relaxing",
+      "hidden gem"
+    ],
+    "Price": "35.000 - 70.000",
+    "rating": 4.6,
+    "address": "Urban Wagyu Complex, BSD",
+    "recommended_for": [
+      "pembaca buku",
+      "nugas",
+      "deep talk"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (08:00 - 22:00)",
+    "special_feature": "Tempatnya nyempil dan gak berisik, enak banget buat yang mau baca buku sambil ngopi serius.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Warung Kondre",
+    "area": "Ciputat",
+    "category": "Masakan Nusantara",
+    "tags": [
+      "vintage",
+      "homey",
+      "ndeso",
+      "selebriti",
+      "hidden gem"
+    ],
+    "Price": "40.000 - 120.000",
+    "rating": 4.4,
+    "address": "Jl. Masjid Arriyadh, Ciputat",
+    "recommended_for": [
+      "keluarga",
+      "gathering",
+      "pecinta suasana rumah"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (10:00 - 22:00)",
+    "special_feature": "Milik komedian Andre Taulany, suasananya kayak rumah di kampung halaman dengan menu masakan jawa yang solid.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Miro Coffee",
+    "area": "Bintaro",
+    "category": "Kopi & Bakery",
+    "tags": [
+      "hidden gem",
+      "bakery",
+      "japanese style",
+      "aesthetic"
+    ],
+    "Price": "30.000 - 80.000",
+    "rating": 4.7,
+    "address": "Bintaro Sektor 2",
+    "recommended_for": [
+      "pastry lovers",
+      "ngopi pagi",
+      "me time"
+    ],
+    "opening_time_hint": "Buka Pagi (07:00 - 20:00)",
+    "special_feature": "Bakery-nya juara dan tempatnya kecil tapi sangat estetik dengan sentuhan Jepang minimalis.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Turning Point Coffee",
+    "area": "Gading Serpong",
+    "category": "Specialty Coffee",
+    "tags": [
+      "high quality",
+      "pet friendly",
+      "minimalist",
+      "coffee enthusiast",
+      "hidden gem"
+    ],
+    "Price": "45.000 - 110.000",
+    "rating": 4.7,
+    "address": "Ruko Golden 8, Gading Serpong",
+    "recommended_for": [
+      "pecinta kopi berat",
+      "dog lovers",
+      "kencan"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (08:00 - 21:00)",
+    "special_feature": "Salah satu pelopor specialty coffee di area ini, beans-nya selalu kurasi kelas atas.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Cultivate",
+    "area": "Gading Serpong",
+    "category": "Dessert Bar",
+    "tags": [
+      "dessert",
+      "plating",
+      "sweet",
+      "fancy but affordable",
+      "hidden gem"
+    ],
+    "Price": "50.000 - 100.000",
+    "rating": 4.8,
+    "address": "Ruko Domus, Gading Serpong",
+    "recommended_for": [
+      "sweet tooth",
+      "dating",
+      "pencari dessert cantik"
+    ],
+    "opening_time_hint": "Buka Siang - Malam (Selasa tutup)",
+    "special_feature": "Fokus pada dessert dengan plating cantik sekelas hotel berbintang tapi harga masuk akal.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Kambing H. Gayo",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "local pride",
+      "legend",
+      "tender meat",
+      "no smell",
+      "hidden gem"
+    ],
+    "Price": "50.000 - 120.000",
+    "rating": 4.5,
+    "address": "Jl. Ciater Raya, BSD (Dekat pom bensin)",
+    "recommended_for": [
+      "makan malam",
+      "pecinta daging kambing",
+      "keluarga"
+    ],
+    "opening_time_hint": "Buka Sore - Malam",
+    "special_feature": "Daging kambingnya sangat empuk dan tidak bau prengus sama sekali.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Avenue 10",
+    "area": "BSD",
+    "category": "Western & Indo Fusion",
+    "tags": [
+      "private",
+      "pool view",
+      "hidden location",
+      "chill",
+      "hidden gem"
+    ],
+    "Price": "60.000 - 200.000",
+    "rating": 4.4,
+    "address": "De Park, BSD City",
+    "recommended_for": [
+      "dinner",
+      "private meeting",
+      "staycation vibes"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (10:00 - 22:00)",
+    "special_feature": "Lokasinya di dalam area perumahan elit De Park, suasananya tenang banget pinggir kolam renang.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Twelve Degrees Coffee",
+    "area": "Gading Serpong",
+    "category": "Coffee & Roastery",
+    "tags": [
+      "industrial",
+      "roastery",
+      "hidden ruko",
+      "serious coffee",
+      "hidden gem"
+    ],
+    "Price": "35.000 - 75.000",
+    "rating": 4.6,
+    "address": "Ruko Dalton, Gading Serpong",
+    "recommended_for": [
+      "pecinta kopi",
+      "belajar kopi",
+      "nugas santai"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (08:00 - 20:00)",
+    "special_feature": "Mereka nge-roast beans sendiri, jadi aromanya sangat khas begitu masuk ke cafe.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Scandinavian Coffee Shop",
+    "area": "Gading Serpong",
+    "category": "Kopi",
+    "tags": [
+      "bright",
+      "minimalist",
+      "stable wifi",
+      "nugas",
+      "hidden gem"
+    ],
+    "Price": "40.000 - 90.000",
+    "rating": 4.5,
+    "address": "Ruko Graha Boulevard, Gading Serpong",
+    "recommended_for": [
+      "nugas lama",
+      "WFH",
+      "pecinta desain scandi"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (09:00 - 22:00)",
+    "special_feature": "Tempat paling nyaman buat kerja lama-lama karena kursinya ergonomis dan pencahayaannya pas.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Amyrea Art & Kitchen",
+    "area": "BSD",
+    "category": "Italian & Western",
+    "tags": [
+      "artsy",
+      "pizza",
+      "cozy",
+      "workshop",
+      "hidden gem"
+    ],
+    "Price": "70.000 - 150.000",
+    "rating": 4.6,
+    "address": "The Breeze BSD (Lantai Atas)",
+    "recommended_for": [
+      "dating",
+      "family dinner",
+      "art enthusiast"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (10:00 - 22:00)",
+    "special_feature": "Meskipun di The Breeze, posisinya agak di pojok atas, dekorasinya sangat artistik dan homey.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi Ayam Alok (Cabang BSD)",
+    "area": "BSD",
+    "category": "Bakmi",
+    "tags": [
+      "old school",
+      "chicken noodle",
+      "legend",
+      "breakfast",
+      "hidden gem"
+    ],
+    "Price": "40.000 - 70.000",
+    "rating": 4.5,
+    "address": "Ruko Golden Madrid, Serpong",
+    "recommended_for": [
+      "sarapan",
+      "keluarga",
+      "pecinta bakmi karet"
+    ],
+    "opening_time_hint": "Pagi - Siang",
+    "special_feature": "Bakmi ayam kampung tipe karet yang sangat terkenal, porsinya nendang.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kopi Praja",
+    "area": "Bintaro",
+    "category": "Kopi",
+    "tags": [
+      "high ceiling",
+      "amphitheater",
+      "spacious",
+      "modern",
+      "hidden gem"
+    ],
+    "Price": "35.000 - 80.000",
+    "rating": 4.4,
+    "address": "Jl. Titihan, Bintaro Sektor 9",
+    "recommended_for": [
+      "nongkrong ramean",
+      "nugas",
+      "arsitektur"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (08:00 - 22:00)",
+    "special_feature": "Punya area duduk bertingkat kayak tribun (amphitheater) yang ikonik di dalem ruangan.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kedai Es Pisang Ijo Pemuda",
+    "area": "Pamulang",
+    "category": "Dessert Tradisional",
+    "tags": [
+      "segar",
+      "legendary",
+      "manis",
+      "indonesian dessert",
+      "hidden gem"
+    ],
+    "Price": "25.000 - 40.000",
+    "rating": 4.6,
+    "address": "Jl. Pamulang Raya",
+    "recommended_for": [
+      "pecinta manis",
+      "jajanan sore",
+      "keluarga"
+    ],
+    "opening_time_hint": "Buka Siang - Malam",
+    "special_feature": "Porsinya besar, sumsumnya lembut, dan sirupnya punya rasa khas yang gak berubah dari dulu.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kopi Domu",
+    "area": "Bintaro",
+    "category": "Kopi",
+    "tags": [
+      "hidden",
+      "industrial",
+      "youthful",
+      "cheap",
+      "hidden gem"
+    ],
+    "Price": "20.000 - 50.000",
+    "rating": 4.3,
+    "address": "Bintaro Sektor 9 (Masuk gang perumahan)",
+    "recommended_for": [
+      "anak sekolah/kuliah",
+      "nongkrong murah",
+      "pecinta kopi susu"
+    ],
+    "opening_time_hint": "Buka Sore - Malam",
+    "special_feature": "Harganya sangat ramah kantong dengan tempat yang 'ngumpet' tapi asik buat nongkrong lama.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Warung Bu Kris",
+    "area": "BSD",
+    "category": "Penyetan",
+    "tags": [
+      "pedas",
+      "sambal",
+      "jawa timuran",
+      "crowded",
+      "hidden gem"
+    ],
+    "Price": "30.000 - 70.000",
+    "rating": 4.5,
+    "address": "Ruko Golden Madrid, BSD",
+    "recommended_for": [
+      "pecinta pedas",
+      "makan siang",
+      "keluarga"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (10:00 - 21:00)",
+    "special_feature": "Spesialis penyetan Surabaya dengan sambal yang diulek langsung di cobek kayu besar.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Haka Dimsum",
+    "area": "Bintaro",
+    "category": "Dimsum",
+    "tags": [
+      "24 hours",
+      "vintage",
+      "chinese vibe",
+      "crowded",
+      "hidden gem"
+    ],
+    "Price": "20.000 - 60.000",
+    "rating": 4.4,
+    "address": "Ruko Kebayoran Arcade, Bintaro Sektor 7",
+    "recommended_for": [
+      "makan tengah malam",
+      "pecinta dimsum",
+      "nongkrong"
+    ],
+    "opening_time_hint": "Buka 24 Jam",
+    "special_feature": "Interiornya kayak kedai di Hong Kong tahun 90-an dan selalu ramai pas jam 12 malem.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kafe Boemi",
+    "area": "Ciputat",
+    "category": "Kopi & Nusantara",
+    "tags": [
+      "greenery",
+      "spacious",
+      "hidden garden",
+      "peaceful",
+      "hidden gem"
+    ],
+    "Price": "30.000 - 80.000",
+    "rating": 4.5,
+    "address": "Jl. Ir. H. Juanda, Ciputat",
+    "recommended_for": [
+      "healing",
+      "nugas outdoor",
+      "kumpul komunitas"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (09:00 - 23:00)",
+    "special_feature": "Gak nyangka di padatnya Ciputat ada kafe seluas dan sehijau ini di dalemnya.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kebun Idea",
+    "area": "Bintaro",
+    "category": "Cafe & Gelato",
+    "tags": [
+      "park",
+      "kids friendly",
+      "outdoor",
+      "gelato",
+      "hidden gem"
+    ],
+    "Price": "30.000 - 70.000",
+    "rating": 4.6,
+    "address": "Bintaro Sektor 9",
+    "recommended_for": [
+      "keluarga",
+      "bawa peliharaan",
+      "piknik santai"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (09:00 - 21:00)",
+    "special_feature": "Konsepnya beneran kebun luas, cocok banget buat bawa anak kecil lari-larian atau bawa anjing jalan-jalan.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Mie Bogor Pak Kadir (Hidden Spot)",
+    "area": "BSD",
+    "category": "Soto Mie",
+    "tags": [
+      "comfort food",
+      "local taste",
+      "cheap",
+      "quick lunch",
+      "hidden gem"
+    ],
+    "Price": "20.000 - 35.000",
+    "rating": 4.5,
+    "address": "Area Parkir Ruko Versaille, BSD City",
+    "recommended_for": [
+      "makan siang cepat",
+      "hemat",
+      "local foodies"
+    ],
+    "opening_time_hint": "Pagi - Habis",
+    "special_feature": "Meskipun tenda, tapi ini salah satu cabang Pak Kadir paling enak di BSD, risolnya juara.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Intro Concept Store",
+    "area": "Bintaro",
+    "category": "Kopi & Lifestyle",
+    "tags": [
+      "modern",
+      "concept store",
+      "aesthetic",
+      "creative space",
+      "hidden gem"
+    ],
+    "Price": "40.000 - 100.000",
+    "rating": 4.5,
+    "address": "Bintaro Sektor 7",
+    "recommended_for": [
+      "kreatif",
+      "pecinta desain",
+      "ngopi cantik"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (08:00 - 22:00)",
+    "special_feature": "Gabungan antara coffee shop dan toko barang-barang desain yang sangat kurasi.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kedai H. Mamat (Hidden Branch)",
+    "area": "BSD",
+    "category": "Soto & Oseng",
+    "tags": [
+      "oseng daging",
+      "legendary",
+      "local pride",
+      "must try",
+      "hidden gem"
+    ],
+    "Price": "40.000 - 65.000",
+    "rating": 4.7,
+    "address": "Ruko RDA, Gading Serpong (Belakang area utama)",
+    "recommended_for": [
+      "pecinta daging",
+      "wisata kuliner",
+      "makan siang"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (10:00 - 18:00)",
+    "special_feature": "Oseng dagingnya legendaris, cabang yang ini cenderung lebih gak antre dibanding yang di pusat.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kopi Manyar",
+    "area": "Bintaro",
+    "category": "Kopi & Galeri",
+    "tags": [
+      "minimalist",
+      "architectural",
+      "zen",
+      "quiet",
+      "hidden gem"
+    ],
+    "Price": "35.000 - 75.000",
+    "rating": 4.6,
+    "address": "Jl. Bintaro Tengah, Blok O2 No. 14",
+    "recommended_for": [
+      "nugas serius",
+      "arsitek",
+      "introvert"
+    ],
+    "opening_time_hint": "Buka Setiap Hari (08:00 - 21:00)",
+    "special_feature": "Didesain oleh arsitek ternama, suasananya sangat tenang dengan pencahayaan alami yang sangat bagus.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi Ayam Kampung Ationg",
+    "area": "BSD",
+    "category": "Bakmi",
+    "tags": [
+      "ayam kampung",
+      "halal",
+      "comfort food",
+      "underrated"
+    ],
+    "Price": "35.000 - 60.000",
+    "rating": 4.8,
+    "address": "Ruko Cordoba, Blok H, BSD City",
+    "recommended_for": [
+      "pecinta bakmi",
+      "sarapan",
+      "makan siang"
+    ],
+    "opening_time_hint": "Buka Pagi - Siang",
+    "special_feature": "Salah satu bakmi ayam kampung terbaik di BSD. Potongan ayamnya gede, kuahnya kaldu banget, tapi jarang masuk list viral.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Rumah Makan Tabona",
+    "area": "BSD",
+    "category": "Kari Medan",
+    "tags": [
+      "kari",
+      "medan style",
+      "authentic",
+      "underrated"
+    ],
+    "Price": "50.000 - 90.000",
+    "rating": 4.7,
+    "address": "Ruko Golden Madrid 1, BSD City",
+    "recommended_for": [
+      "pecinta kari",
+      "keluarga",
+      "makan siang"
+    ],
+    "opening_time_hint": "08:00 - 16:00",
+    "special_feature": "Spesialis kari Medan dengan kuah kental rempah. Daging sapi dan ayamnya empuk banget, beneran 'hidden' di ruko lama.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Nasi Kapau Bukittinggi (Golden Road)",
+    "area": "BSD",
+    "category": "Masakan Padang",
+    "tags": [
+      "nasi kapau",
+      "authentic",
+      "pedas",
+      "underrated"
+    ],
+    "Price": "30.000 - 70.000",
+    "rating": 4.6,
+    "address": "Ruko Golden Road (Belakang ITC BSD)",
+    "recommended_for": [
+      "makan siang",
+      "pecinta masakan minang",
+      "porsi besar"
+    ],
+    "opening_time_hint": "10:00 - 20:00",
+    "special_feature": "Gulai tambusu dan rendangnya juara. Rasa bumbunya lebih 'berani' dibanding rumah makan padang mainstream.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Steak 36",
+    "area": "BSD",
+    "category": "Western",
+    "tags": [
+      "steak murah",
+      "gacor",
+      "street food",
+      "underrated"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.5,
+    "address": "Jl. Ciater Raya (Dekat SPBU)",
+    "recommended_for": [
+      "anak muda",
+      "makan enak murah",
+      "pelajar"
+    ],
+    "opening_time_hint": "11:00 - 21:00",
+    "special_feature": "Meskipun harganya sangat murah, kualitas daging dan sausnya gak kalah sama resto mall. Gacor banget buat harga segitu.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kwetiau Sapi 28 Atek",
+    "area": "BSD",
+    "category": "Chinese Food",
+    "tags": [
+      "kwetiau goreng",
+      "halal option",
+      "medan style",
+      "underrated"
+    ],
+    "Price": "40.000 - 65.000",
+    "rating": 4.6,
+    "address": "Ruko Versaille, BSD City",
+    "recommended_for": [
+      "makan malam",
+      "keluarga",
+      "pecinta kwetiau"
+    ],
+    "opening_time_hint": "10:00 - 21:00",
+    "special_feature": "Wok-hei (aroma wajan) di kwetiau gorengnya dapet banget. Porsinya juga bikin kenyang bego.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Omah Badhok",
+    "area": "BSD",
+    "category": "Masakan Jawa",
+    "tags": [
+      "rumahan",
+      "sego sambel",
+      "murah",
+      "underrated"
+    ],
+    "Price": "20.000 - 45.000",
+    "rating": 4.7,
+    "address": "Ruko Golden Boulevard, BSD City",
+    "recommended_for": [
+      "makan siang",
+      "karyawan",
+      "pecinta sambal"
+    ],
+    "opening_time_hint": "Pagi - Sore",
+    "special_feature": "Masakan Jawa rumahan yang bumbunya 'medok'. Sambalnya selalu fresh karena diulek dadakan.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Mie Aceh Bang Jaly",
+    "area": "Bintaro",
+    "category": "Masakan Aceh",
+    "tags": [
+      "mie aceh",
+      "rempah",
+      "pedas",
+      "underrated"
+    ],
+    "Price": "25.000 - 55.000",
+    "rating": 4.6,
+    "address": "Jl. Bintaro Utama Sektor 9",
+    "recommended_for": [
+      "nongkrong malam",
+      "pecinta rempah",
+      "pedas lovers"
+    ],
+    "opening_time_hint": "11:00 - 23:00",
+    "special_feature": "Mie Aceh kepitingnya gacor parah. Bumbunya tebal dan kerasa rempah aslinya, bukan cuma sekadar pedas.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Lao Kopitiam",
+    "area": "BSD",
+    "category": "Breakfast & Coffee",
+    "tags": [
+      "old school",
+      "roti bakar",
+      "comfort",
+      "underrated"
+    ],
+    "Price": "20.000 - 50.000",
+    "rating": 4.5,
+    "address": "Ruko Golden Madrid 2, BSD City",
+    "recommended_for": [
+      "sarapan santai",
+      "ngopi pagi",
+      "deep talk"
+    ],
+    "opening_time_hint": "07:00 - 18:00",
+    "special_feature": "Suasana kopitiam jadul yang tenang. Kaya toast dan kopi susunya sangat konsisten rasanya.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sego Pecel Bu Yus",
+    "area": "BSD",
+    "category": "Masakan Jawa",
+    "tags": [
+      "pecel madiun",
+      "sarapan",
+      "sehat",
+      "underrated"
+    ],
+    "Price": "15.000 - 30.000",
+    "rating": 4.7,
+    "address": "Area Pasar Modern BSD",
+    "recommended_for": [
+      "sarapan cepat",
+      "pecinta sayur",
+      "hemat"
+    ],
+    "opening_time_hint": "06:00 - 12:00",
+    "special_feature": "Bumbu pecelnya punya level pedas yang pas dan kacangnya halus. Rempeyeknya juga juara garingnya.",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Nasi Pedas Bali Made",
+    "area": "BSD",
+    "category": "Masakan Bali",
+    "tags": [
+      "halal",
+      "nasi campur",
+      "pedas",
+      "underrated"
+    ],
+    "Price": "35.000 - 60.000",
+    "rating": 4.5,
+    "address": "Ruko Piazza, BSD City",
+    "recommended_for": [
+      "lunch",
+      "pecinta masakan bali",
+      "pedas lovers"
+    ],
+    "opening_time_hint": "10:00 - 20:00",
+    "special_feature": "Nasi campur Bali versi halal yang paling mendekati rasa otentik. Sambal mbe dan sate lilitnya gacor.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakmie Berdikari",
+    "area": "BSD",
+    "category": "Bakmi & Chinese Food",
+    "tags": [
+      "porsi besar",
+      "family resto",
+      "halal",
+      "underrated"
+    ],
+    "Price": "40.000 - 80.000",
+    "rating": 4.6,
+    "address": "Ruko Golden Road, Serpong",
+    "recommended_for": [
+      "makan bareng keluarga",
+      "pecinta mie",
+      "porsi sharing"
+    ],
+    "opening_time_hint": "10:00 - 21:00",
+    "special_feature": "Pilihan menunya banyak banget, porsinya jumbo, dan rasanya stabil enak dari dulu.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Warung Nasi Sidempuan",
+    "area": "Ciputat",
+    "category": "Masakan Tapanuli",
+    "tags": [
+      "halal",
+      "ikan sale",
+      "daun ubi",
+      "underrated"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.7,
+    "address": "Jl. Ir H. Juanda, Ciputat",
+    "recommended_for": [
+      "pecinta masakan sumatera",
+      "makan siang",
+      "unik"
+    ],
+    "opening_time_hint": "09:00 - 17:00",
+    "special_feature": "Masakan khas Tapanuli Selatan yang halal. Gulai daun ubi tumbuk dan ikan sale-nya langka dan enak banget.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kopi ko n d u",
+    "area": "BSD",
+    "category": "Coffee Shop",
+    "tags": [
+      "aesthetic",
+      "hidden garden",
+      "quiet",
+      "underrated"
+    ],
+    "Price": "30.000 - 60.000",
+    "rating": 4.6,
+    "address": "Jl. Pajajaran, Gandasuli (Dekat BSD Sektor 1)",
+    "recommended_for": [
+      "nugas",
+      "healing",
+      "me time"
+    ],
+    "opening_time_hint": "08:00 - 21:00",
+    "special_feature": "Tempatnya nyempil di perumahan, suasananya asri banget kayak di Bali. Kopi susunya enak dan gak terlalu manis.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Ramen Ten Ten",
+    "area": "BSD",
+    "category": "Japanese",
+    "tags": [
+      "ramen murah",
+      "gacor",
+      "halal",
+      "underrated"
+    ],
+    "Price": "35.000 - 60.000",
+    "rating": 4.4,
+    "address": "Ruko Golden Boulevard, BSD City",
+    "recommended_for": [
+      "makan malam",
+      "anak muda",
+      "pecinta ramen"
+    ],
+    "opening_time_hint": "11:00 - 21:00",
+    "special_feature": "Ramen dengan harga bersahabat tapi kuah kaldunya dapet banget, gak berasa 'ramen instan'.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Tangkar & Sate Kuah Bang Edy",
+    "area": "BSD",
+    "category": "Soto",
+    "tags": [
+      "iga sapi",
+      "sate kuah",
+      "tenda",
+      "underrated"
+    ],
+    "Price": "30.000 - 50.000",
+    "rating": 4.8,
+    "address": "Area Parkir Pasar Modern BSD",
+    "recommended_for": [
+      "makan malam",
+      "comfort food",
+      "pecinta jeroan"
+    ],
+    "opening_time_hint": "18:00 - 23:00",
+    "special_feature": "Sate yang dicelup ke kuah soto tangkar kental. Ini kombinasi maut yang bikin orang rela antre.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Hokky Bakpao",
+    "area": "BSD",
+    "category": "Snack",
+    "tags": [
+      "bakpao",
+      "homemade",
+      "lembut",
+      "underrated"
+    ],
+    "Price": "10.000 - 25.000",
+    "rating": 4.7,
+    "address": "Ruko Golden Madrid, BSD City",
+    "recommended_for": [
+      "cemilan",
+      "buah tangan",
+      "sarapan"
+    ],
+    "opening_time_hint": "Pagi - Sore",
+    "special_feature": "Bakpao buatan sendiri dengan isian daging melimpah dan tekstur roti yang sangat lembut.",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Rumah Makan Medan Ci Fanny",
+    "area": "BSD",
+    "category": "Nasi Campur (Non-Halal)",
+    "tags": [
+      "pork",
+      "medan style",
+      "gacor",
+      "underrated"
+    ],
+    "Price": "45.000 - 80.000",
+    "rating": 4.7,
+    "address": "Ruko Golden Madrid, BSD City",
+    "recommended_for": [
+      "makan siang",
+      "pecinta kuliner medan",
+      "keluarga"
+    ],
+    "opening_time_hint": "08:00 - 15:00",
+    "special_feature": "Nasi campur Medan paling 'complete' di BSD. Chasiu dan siobak-nya krispi dan gurih parah.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Ayam Goreng Berkah (Branch BSD)",
+    "area": "BSD",
+    "category": "Masakan Nusantara",
+    "tags": [
+      "ayam kampung",
+      "legendaris",
+      "gacor",
+      "underrated"
+    ],
+    "Price": "30.000 - 70.000",
+    "rating": 4.6,
+    "address": "Ruko Versailles, BSD City",
+    "recommended_for": [
+      "makan bareng keluarga",
+      "pecinta ayam goreng",
+      "lunch"
+    ],
+    "opening_time_hint": "10:00 - 21:00",
+    "special_feature": "Meskipun cabangnya Melawai sangat terkenal, cabang BSD ini rasanya sama persis tapi suasananya lebih tenang.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Martabak Akim",
+    "area": "BSD",
+    "category": "Snack",
+    "tags": [
+      "martabak tipker",
+      "pandan asli",
+      "gacor",
+      "underrated"
+    ],
+    "Price": "40.000 - 90.000",
+    "rating": 4.8,
+    "address": "Jl. Kencana Loka (Area Tenda Sektor 12)",
+    "recommended_for": [
+      "cemilan malam",
+      "pecinta manis",
+      "keluarga"
+    ],
+    "opening_time_hint": "17:00 - 22:00",
+    "special_feature": "Adonan pandannya wangi asli, bukan perisa. Martabak tipis keringnya (tipker) gacor banget renyahnya.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Warung Sego Sambel Iwak Pe",
+    "area": "BSD",
+    "category": "Penyetan",
+    "tags": [
+      "pedas",
+      "surabaya style",
+      "tenda",
+      "underrated"
+    ],
+    "Price": "20.000 - 45.000",
+    "rating": 4.6,
+    "address": "Jl. Letnan Sutopo (Area parkir ITC BSD)",
+    "recommended_for": [
+      "makan malam",
+      "pedas lovers",
+      "hemat"
+    ],
+    "opening_time_hint": "18:00 - 24:00",
+    "special_feature": "Iwak Pe (ikan pari asap) yang jarang ada di Tangsel. Sambalnya pedas nendang khas Jawa Timuran.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Padang Ajo Ramon (Branch BSD)",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "lidah sapi",
+      "bumbu merah",
+      "gacor",
+      "underrated"
+    ],
+    "Price": "35.000 - 60.000",
+    "rating": 4.7,
+    "address": "Ruko Tol Boulevard, BSD City",
+    "recommended_for": [
+      "makan malam",
+      "pecinta sate padang",
+      "kuliner malam"
+    ],
+    "opening_time_hint": "16:00 - 22:00",
+    "special_feature": "Kualitas lidah sapinya sama kayak pusatnya di Santa, tapi di sini jarang antre panjang.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi Aloiy",
+    "area": "Gading Serpong",
+    "category": "Bakmi (Non-Halal)",
+    "tags": [
+      "pork",
+      "pontianak style",
+      "porsi melimpah",
+      "underrated"
+    ],
+    "Price": "35.000 - 65.000",
+    "rating": 4.8,
+    "address": "Ruko South Goldfinch, Gading Serpong",
+    "recommended_for": [
+      "sarapan",
+      "lunch",
+      "pencari bakmi non-halal"
+    ],
+    "opening_time_hint": "07:00 - 15:00",
+    "special_feature": "Bakmi Pontianak dengan topping yang super 'rame'. Daging babi cincang dan jeroannya gurih banget.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Warung Bu Erna",
+    "area": "BSD",
+    "category": "Nasi Campur Jawa",
+    "tags": [
+      "rumahan",
+      "murah",
+      "gacor",
+      "underrated"
+    ],
+    "Price": "15.000 - 30.000",
+    "rating": 4.5,
+    "address": "Jl. Palm Raya (Dekat Sektor 1.1)",
+    "recommended_for": [
+      "sarapan",
+      "karyawan",
+      "hemat"
+    ],
+    "opening_time_hint": "06:00 - 11:00",
+    "special_feature": "Antreannya orang lokal semua. Nasi campur dengan oseng tempe dan ayam suwirnya comfort food banget.",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Rempah Bistro",
+    "area": "BSD",
+    "category": "Nusantara Modern",
+    "tags": [
+      "comfort food",
+      "family resto",
+      "enak banget",
+      "underrated"
+    ],
+    "Price": "60.000 - 150.000",
+    "rating": 4.6,
+    "address": "BSD Business District (Dekat AEON)",
+    "recommended_for": [
+      "meeting",
+      "dinner keluarga",
+      "pecinta nasi campur"
+    ],
+    "opening_time_hint": "10:00 - 22:00",
+    "special_feature": "Meskipun tempatnya bagus, tapi belum se-viral resto lain. Padahal Nasi Berkat dan Empal Gentongnya gacor parah.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Nasi Goreng Kambing Kebon Sirih (Branch BSD)",
+    "area": "BSD",
+    "category": "Nasi Goreng",
+    "tags": [
+      "kambing",
+      "rempah",
+      "legendaris",
+      "underrated"
+    ],
+    "Price": "45.000 - 80.000",
+    "rating": 4.5,
+    "address": "Ruko Golden Madrid, BSD City",
+    "recommended_for": [
+      "makan malam",
+      "pecinta kambing",
+      "porsi besar"
+    ],
+    "opening_time_hint": "11:00 - 21:00",
+    "special_feature": "Nasi goreng kambing dengan bumbu rempah kuning yang khas. Porsinya sangat mengenyangkan.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kedai Kakiku",
+    "area": "BSD",
+    "category": "Masakan Nusantara",
+    "tags": [
+      "homey",
+      "menu variatif",
+      "gacor",
+      "underrated"
+    ],
+    "Price": "30.000 - 70.000",
+    "rating": 4.6,
+    "address": "Ruko Golden Madrid 1, BSD City",
+    "recommended_for": [
+      "makan siang",
+      "keluarga",
+      "WFH"
+    ],
+    "opening_time_hint": "09:00 - 20:00",
+    "special_feature": "Tempatnya sangat nyaman buat makan siang lama-lama. Garang Asem dan Iga Bakarnya sangat direkomendasikan.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Lamongan Cak Har (BSD)",
+    "area": "BSD",
+    "category": "Soto",
+    "tags": [
+      "koya",
+      "ayam kampung",
+      "seger",
+      "underrated"
+    ],
+    "Price": "25.000 - 45.000",
+    "rating": 4.6,
+    "address": "Jl. Raya Serpong (Dekat WTC Matahari)",
+    "recommended_for": [
+      "makan siang",
+      "pecinta soto",
+      "hemat"
+    ],
+    "opening_time_hint": "08:00 - 21:00",
+    "special_feature": "Soto Lamongan asli dengan koya yang gurih. Kuahnya bening tapi rasanya mendalam.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakpao A-Satu",
+    "area": "BSD",
+    "category": "Snack",
+    "tags": [
+      "bakpao medan",
+      "legendaris",
+      "snack pagi",
+      "underrated"
+    ],
+    "Price": "15.000 - 30.000",
+    "rating": 4.7,
+    "address": "Ruko Tol Boulevard, BSD City",
+    "recommended_for": [
+      "cemilan",
+      "sarapan",
+      "oleh-oleh"
+    ],
+    "opening_time_hint": "07:00 - 18:00",
+    "special_feature": "Bakpao Medan yang terkenal dengan isian kacang merah dan babi merahnya (non-halal ada, halal ada).",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Mie Ayam Bakso Kotak",
+    "area": "Pamulang",
+    "category": "Bakmi & Bakso",
+    "tags": [
+      "bakso unik",
+      "murah",
+      "gacor",
+      "underrated"
+    ],
+    "Price": "15.000 - 30.000",
+    "rating": 4.5,
+    "address": "Jl. Raya Pamulang (Dekat Universitas Pamulang)",
+    "recommended_for": [
+      "mahasiswa",
+      "makan siang",
+      "hemat"
+    ],
+    "opening_time_hint": "10:00 - 21:00",
+    "special_feature": "Bentuk baksonya kotak dan teksturnya sangat kenyal daging. Harganya ramah kantong mahasiswa.",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Kopi Toko Djawa (BSD Branch)",
+    "area": "BSD",
+    "category": "Kopi",
+    "tags": [
+      "vintage",
+      "kopi gula aren",
+      "vibes",
+      "underrated"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.6,
+    "address": "Ruko Icon Business Park, BSD City",
+    "recommended_for": [
+      "ngopi sore",
+      "pecinta kopi bandung",
+      "nugas santai"
+    ],
+    "opening_time_hint": "08:00 - 21:00",
+    "special_feature": "Meskipun dari Bandung, cabang BSD ini punya vibe yang dapet banget dan kopi awan-nya tetep paling gacor.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi Keriting Aheng",
+    "area": "BSD",
+    "category": "Bakmi",
+    "tags": [
+      "medan style",
+      "comfort food",
+      "legendary",
+      "underrated"
+    ],
+    "Price": "35.000 - 65.000",
+    "rating": 4.7,
+    "address": "Ruko Golden Madrid, BSD City",
+    "recommended_for": [
+      "sarapan",
+      "lunch",
+      "pencari bakmi keriting"
+    ],
+    "opening_time_hint": "07:00 - 15:00",
+    "special_feature": "Bakmi keriting khas Medan yang teksturnya kenyal pas, topping dagingnya royal dan kuah kaldunya gurih bersih.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Padang Ajo Buyung",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "bumbu kental",
+      "lidah sapi",
+      "tenda",
+      "underrated"
+    ],
+    "Price": "30.000 - 55.000",
+    "rating": 4.6,
+    "address": "Area Parkir Ruko Versaille, BSD City",
+    "recommended_for": [
+      "dinner",
+      "kuliner malam",
+      "pecinta sate padang"
+    ],
+    "opening_time_hint": "18:00 - 23:00",
+    "special_feature": "Bumbu Padangnya lebih berani rempah dibanding yang lain, sate lidahnya sangat lembut dan gak alot.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Nasi Uduk Kebon Kacang A. Gani",
+    "area": "BSD",
+    "category": "Masakan Betawi",
+    "tags": [
+      "nasi uduk",
+      "ayam goreng",
+      "ruko",
+      "underrated"
+    ],
+    "Price": "25.000 - 60.000",
+    "rating": 4.5,
+    "address": "Ruko Granada, BSD City",
+    "recommended_for": [
+      "makan siang",
+      "keluarga",
+      "pecinta nasi uduk"
+    ],
+    "opening_time_hint": "10:00 - 21:00",
+    "special_feature": "Nasi uduk bungkusan daun pisang yang wanginya khas banget. Sambal kacang dan ayam gorengnya juara.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "RM Sederhana (Pasar Modern BSD)",
+    "area": "BSD",
+    "category": "Masakan Padang",
+    "tags": [
+      "legendaris",
+      "pasmod",
+      "gacor",
+      "underrated"
+    ],
+    "Price": "30.000 - 75.000",
+    "rating": 4.7,
+    "address": "Pasar Modern BSD (Area Depan)",
+    "recommended_for": [
+      "lunch",
+      "pecinta masakan minang",
+      "sarapan"
+    ],
+    "opening_time_hint": "08:00 - 20:00",
+    "special_feature": "Meskipun namanya 'Sederhana', tapi ini bukan franchise masif. Rasanya jauh lebih otentik dan bumbunya lebih 'medok'.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakso Ikan Akiaw",
+    "area": "BSD",
+    "category": "Bakso",
+    "tags": [
+      "bakso ikan",
+      "sehat",
+      "ruko",
+      "underrated"
+    ],
+    "Price": "35.000 - 60.000",
+    "rating": 4.6,
+    "address": "Ruko Cordoba, BSD City",
+    "recommended_for": [
+      "lunch",
+      "comfort food",
+      "pecinta bakso ikan"
+    ],
+    "opening_time_hint": "10:00 - 19:00",
+    "special_feature": "Bakso ikan buatan sendiri yang sangat kenyal tanpa pengawet. Kuahnya bening dan segar banget buat makan siang.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Soto Kudus Kauman",
+    "area": "BSD",
+    "category": "Soto",
+    "tags": [
+      "porsi mangkok",
+      "sate paru",
+      "sarapan",
+      "underrated"
+    ],
+    "Price": "20.000 - 45.000",
+    "rating": 4.5,
+    "address": "Ruko Golden Boulevard, BSD City",
+    "recommended_for": [
+      "sarapan",
+      "makan siang santai",
+      "keluarga"
+    ],
+    "opening_time_hint": "07:00 - 16:00",
+    "special_feature": "Soto Kudus dengan kuah santan tipis yang sangat aromatik. Sate-satean pendampingnya selalu komplit.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Kwetiau Sapi 78 (Pasmod)",
+    "area": "BSD",
+    "category": "Chinese Food",
+    "tags": [
+      "kwetiau goreng",
+      "wok hei",
+      "halal",
+      "underrated"
+    ],
+    "Price": "35.000 - 55.000",
+    "rating": 4.7,
+    "address": "Pasar Modern BSD (Area Tengah)",
+    "recommended_for": [
+      "lunch",
+      "pecinta kwetiau",
+      "cepat saji"
+    ],
+    "opening_time_hint": "07:00 - 14:00",
+    "special_feature": "Dibuat dengan api besar (wok hei) yang bikin kwetiau-nya punya aroma bakar yang nagih. Daging sapinya melimpah.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Gado-Gado Ria",
+    "area": "BSD",
+    "category": "Masakan Nusantara",
+    "tags": [
+      "gado-gado",
+      "bumbu kacang",
+      "pasmod",
+      "underrated"
+    ],
+    "Price": "25.000 - 40.000",
+    "rating": 4.8,
+    "address": "Pasar Modern BSD",
+    "recommended_for": [
+      "makan siang sehat",
+      "pecinta sayur",
+      "sarapan"
+    ],
+    "opening_time_hint": "07:00 - 15:00",
+    "special_feature": "Bumbu kacangnya sangat halus dan kental. Salah satu gado-gado paling enak di Tangsel yang konsisten puluhan tahun.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Pempek Palembang 161",
+    "area": "BSD",
+    "category": "Snack/Main Course",
+    "tags": [
+      "pempek",
+      "asli palembang",
+      "cuko mantap",
+      "underrated"
+    ],
+    "Price": "15.000 - 60.000",
+    "rating": 4.6,
+    "address": "Ruko Versailles, BSD City",
+    "recommended_for": [
+      "cemilan sore",
+      "makan siang",
+      "keluarga"
+    ],
+    "opening_time_hint": "10:00 - 21:00",
+    "special_feature": "Cuko-nya pedas gurih pas, ikannya kerasa banget. Pilihan pempeknya lengkap banget dari kapal selam sampe lenggang.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Tahu Campur Lamongan (Ciater)",
+    "area": "BSD",
+    "category": "Masakan Jawa",
+    "tags": [
+      "tahu campur",
+      "petis",
+      "tenda",
+      "underrated"
+    ],
+    "Price": "25.000 - 40.000",
+    "rating": 4.5,
+    "address": "Jl. Ciater Raya (Depan pom bensin)",
+    "recommended_for": [
+      "makan malam",
+      "pecinta kuliner jatim",
+      "pencari petis"
+    ],
+    "opening_time_hint": "17:00 - 22:00",
+    "special_feature": "Petisnya dikirim langsung dari Jawa Timur, perkedel singkongnya krispi dan daging tetelannya empuk.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Ayam Presto Ny. Nita (Branch)",
+    "area": "BSD",
+    "category": "Masakan Nusantara",
+    "tags": [
+      "ayam tulang lunak",
+      "kremesan",
+      "ruko",
+      "underrated"
+    ],
+    "Price": "35.000 - 70.000",
+    "rating": 4.6,
+    "address": "Ruko Golden Madrid, BSD City",
+    "recommended_for": [
+      "lunch",
+      "keluarga",
+      "makan kenyang"
+    ],
+    "opening_time_hint": "10:00 - 21:00",
+    "special_feature": "Meskipun brand lama, tapi kualitas presto-nya tetap yang terbaik. Tulangnya beneran lunak dan kremesannya nagih.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi Ayam Kampung Simpur",
+    "area": "BSD",
+    "category": "Bakmi",
+    "tags": [
+      "ayam kampung",
+      "halal",
+      "ruko",
+      "underrated"
+    ],
+    "Price": "30.000 - 55.000",
+    "rating": 4.7,
+    "address": "Ruko Tol Boulevard, BSD City",
+    "recommended_for": [
+      "sarapan",
+      "pecinta bakmi karet",
+      "lokal foodies"
+    ],
+    "opening_time_hint": "07:00 - 15:00",
+    "special_feature": "Tipikal bakmi ayam kampung yang 'clean' rasanya. Gak berminyak berlebihan dan potongan ayamnya banyak.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Nasi Bogana Ny. Anny",
+    "area": "BSD",
+    "category": "Masakan Jawa",
+    "tags": [
+      "nasi bogana",
+      "khas tegal",
+      "bungkus daun",
+      "underrated"
+    ],
+    "Price": "30.000 - 50.000",
+    "rating": 4.5,
+    "address": "Pasar Modern BSD (Lantai Atas)",
+    "recommended_for": [
+      "lunch",
+      "pesanan acara",
+      "pecinta nasi campur"
+    ],
+    "opening_time_hint": "08:00 - 16:00",
+    "special_feature": "Lauk pauknya sangat meresap bumbunya. Opor ayam dan sambal goreng hatinya beneran otentik rasa Tegal.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Sate Kambing Muda H. Paijo",
+    "area": "Serpong",
+    "category": "Sate",
+    "tags": [
+      "kambing muda",
+      "empuk",
+      "tenda",
+      "underrated"
+    ],
+    "Price": "40.000 - 80.000",
+    "rating": 4.8,
+    "address": "Jl. Raya Serpong (Dekat Bundaran Jam)",
+    "recommended_for": [
+      "makan malam",
+      "pecinta sate kambing",
+      "keluarga"
+    ],
+    "opening_time_hint": "16:00 - 22:00",
+    "special_feature": "Dagingnya beneran kambing muda jadi gak ada bau sama sekali dan dipotong besar-besar.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Rumah Makan Ciganea (BSD)",
+    "area": "BSD",
+    "category": "Masakan Sunda",
+    "tags": [
+      "sunda asli",
+      "sambal dadak",
+      "ruko",
+      "underrated"
+    ],
+    "Price": "35.000 - 70.000",
+    "rating": 4.6,
+    "address": "Ruko Versaille Blok FA, BSD City",
+    "recommended_for": [
+      "lunch",
+      "keluarga",
+      "pecinta sambal dadak"
+    ],
+    "opening_time_hint": "10:00 - 20:00",
+    "special_feature": "Ayam gorengnya gurih meresap sampai tulang, sambal dadaknya pedas seger bikin nambah nasi berkali-kali.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Pecel Pincuk Bu Ida",
+    "area": "BSD",
+    "category": "Masakan Jawa",
+    "tags": [
+      "pecel madiun",
+      "pincuk",
+      "sarapan",
+      "underrated"
+    ],
+    "Price": "20.000 - 35.000",
+    "rating": 4.7,
+    "address": "Area Parkir Timur Pasar Modern BSD",
+    "recommended_for": [
+      "sarapan",
+      "hemat",
+      "pecinta pecel"
+    ],
+    "opening_time_hint": "06:00 - 11:00",
+    "special_feature": "Cara penyajiannya masih pake pincuk daun pisang asli, bumbu pecelnya pedas mantap khas Madiun.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bubur Ayam Ko Iyo",
+    "area": "Serpong",
+    "category": "Bubur",
+    "tags": [
+      "tangerang style",
+      "telur mentah",
+      "legendaris",
+      "underrated"
+    ],
+    "Price": "20.000 - 40.000",
+    "rating": 4.6,
+    "address": "Pasar Lama Serpong (Masuk jalan kecil)",
+    "recommended_for": [
+      "sarapan",
+      "wisata kuliner",
+      "pecinta bubur"
+    ],
+    "opening_time_hint": "06:00 - 12:00",
+    "special_feature": "Bubur panas yang dicampur telur ayam kampung mentah di bawahnya, aduk pelan biar creamy. Gacor!",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi Medan Kebon Jahe",
+    "area": "BSD",
+    "category": "Bakmi",
+    "tags": [
+      "mie keriting",
+      "medan style",
+      "porsi gede",
+      "underrated"
+    ],
+    "Price": "35.000 - 60.000",
+    "rating": 4.5,
+    "address": "Ruko Golden Road, BSD City",
+    "recommended_for": [
+      "lunch",
+      "sarapan",
+      "pecinta bakmi"
+    ],
+    "opening_time_hint": "07:00 - 15:00",
+    "special_feature": "Salah satu cabang tertua di BSD. Tekstur mienya khas, gak gampang lembek dan bumbunya gurih asin.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Nasi Liwet Solo (Pasmod)",
+    "area": "BSD",
+    "category": "Masakan Jawa",
+    "tags": [
+      "liwet solo",
+      "pagi",
+      "tenda",
+      "underrated"
+    ],
+    "Price": "20.000 - 35.000",
+    "rating": 4.8,
+    "address": "Tenda Pagi Pasar Modern BSD",
+    "recommended_for": [
+      "sarapan",
+      "cepat saji",
+      "kangen jogja/solo"
+    ],
+    "opening_time_hint": "06:00 - 10:00",
+    "special_feature": "Sayur labunya gurih santan, ayam suwir dan areh-nya (santan kental) bikin rasanya sangat otentik Solo.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Es Sekoteng & Siomay Bandung (Pasmod)",
+    "area": "BSD",
+    "category": "Dessert/Snack",
+    "tags": [
+      "seger",
+      "siomay ikan",
+      "pasmod",
+      "underrated"
+    ],
+    "Price": "20.000 - 45.000",
+    "rating": 4.7,
+    "address": "Pasar Modern BSD (Area Kuliner Tengah)",
+    "recommended_for": [
+      "cemilan sore",
+      "cuaca panas",
+      "dessert"
+    ],
+    "opening_time_hint": "08:00 - 15:00",
+    "special_feature": "Es sekotengnya pake alpukat dan kelapa muda yang melimpah. Siomay ikannya kenyal daging bukan tepung.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Martabak Pecenongan 43 (Branch)",
+    "area": "BSD",
+    "category": "Snack",
+    "tags": [
+      "martabak manis",
+      "tebal",
+      "malam",
+      "underrated"
+    ],
+    "Price": "45.000 - 120.000",
+    "rating": 4.5,
+    "address": "Jl. Raya Serpong (Dekat WTC Matahari)",
+    "recommended_for": [
+      "cemilan malam",
+      "keluarga",
+      "pecinta keju"
+    ],
+    "opening_time_hint": "17:00 - 23:00",
+    "special_feature": "Adonan martabaknya sangat buttery dan lembut meskipun sudah dingin. Wisman-nya kerasa banget.",
+    "klasifikasi": {
+      "tag": "Mahal",
+      "search_keywords": [
+        "mahal",
+        "premium",
+        "high end",
+        "fine dining"
+      ]
+    }
+  },
+  {
+    "name": "Sate Taichan Senayan (Ruko Cordoba)",
+    "area": "BSD",
+    "category": "Sate",
+    "tags": [
+      "taichan",
+      "pedas",
+      "anak muda",
+      "underrated"
+    ],
+    "Price": "25.000 - 50.000",
+    "rating": 4.4,
+    "address": "Ruko Cordoba (Area Belakang), BSD City",
+    "recommended_for": [
+      "nongkrong malam",
+      "pedas lovers",
+      "anak muda"
+    ],
+    "opening_time_hint": "18:00 - 24:00",
+    "special_feature": "Potongan dagingnya lebih besar dibanding taichan pinggir jalan, sambalnya pedas tapi gak bikin perut sakit.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bebek Kaleyo (BSD Branch)",
+    "area": "BSD",
+    "category": "Masakan Nusantara",
+    "tags": [
+      "bebek goreng",
+      "sambal mangga",
+      "rame",
+      "underrated"
+    ],
+    "Price": "35.000 - 75.000",
+    "rating": 4.6,
+    "address": "Ruko Autoparts, BSD City",
+    "recommended_for": [
+      "lunch",
+      "keluarga",
+      "pecinta bebek"
+    ],
+    "opening_time_hint": "10:00 - 22:00 (Minggu Tutup)",
+    "special_feature": "Meskipun brand besar, tapi konsistensi keempukan bebek dan sambal mangganya di cabang ini sangat terjaga.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Mie Ayam Bakso Kotak",
+    "area": "Pamulang",
+    "category": "Bakmi & Bakso",
+    "tags": [
+      "bakso unik",
+      "murah",
+      "mahasiswa",
+      "underrated"
+    ],
+    "Price": "15.000 - 30.000",
+    "rating": 4.5,
+    "address": "Jl. Raya Pamulang (Dekat Unpam)",
+    "recommended_for": [
+      "makan siang murah",
+      "anak sekolah",
+      "hemat"
+    ],
+    "opening_time_hint": "10:00 - 21:00",
+    "special_feature": "Bakso berbentuk kotak dengan isian daging cincang. Harganya sangat ekonomis tapi porsi nendang.",
+    "klasifikasi": {
+      "tag": "Murah",
+      "search_keywords": [
+        "murmer",
+        "mumer",
+        "murah",
+        "hemat",
+        "terjangkau",
+        "kantong mahasiswa"
+      ]
+    }
+  },
+  {
+    "name": "Nasi Goreng Gila Obama (Branch)",
+    "area": "BSD",
+    "category": "Nasi Goreng",
+    "tags": [
+      "nasi gila",
+      "porsi kuli",
+      "malam",
+      "underrated"
+    ],
+    "Price": "25.000 - 45.000",
+    "rating": 4.4,
+    "address": "Ruko Tol Boulevard, BSD City",
+    "recommended_for": [
+      "lapar malam",
+      "anak kost",
+      "porsi besar"
+    ],
+    "opening_time_hint": "18:00 - 01:00",
+    "special_feature": "Topping gilanya melimpah (bakso, sosis, telur) dan rasa menteganya dominan, bikin gurih banget.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Warung Tekko (Pasmod Branch)",
+    "area": "BSD",
+    "category": "Penyetan",
+    "tags": [
+      "iga penyet",
+      "sambal mantap",
+      "keluarga",
+      "underrated"
+    ],
+    "Price": "45.000 - 95.000",
+    "rating": 4.6,
+    "address": "Pasar Modern BSD (Area Ruko)",
+    "recommended_for": [
+      "lunch",
+      "keluarga",
+      "pecinta iga"
+    ],
+    "opening_time_hint": "10:00 - 21:00",
+    "special_feature": "Iga penyetnya juara, sambalnya bisa pilih level pedas. Cabang ini cenderung lebih tenang dibanding di mall.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Iga Bakar Si Jangkung (Branch)",
+    "area": "BSD",
+    "category": "Western/Nusantara",
+    "tags": [
+      "iga bakar",
+      "tanpa tulang",
+      "gacor",
+      "underrated"
+    ],
+    "Price": "40.000 - 75.000",
+    "rating": 4.7,
+    "address": "Ruko Golden Madrid, BSD City",
+    "recommended_for": [
+      "lunch",
+      "dinner",
+      "pecinta daging"
+    ],
+    "opening_time_hint": "11:00 - 21:00",
+    "special_feature": "Iga bakar tanpa tulang yang disajikan di piring panas. Bumbunya meresap sampai ke serat daging paling dalam.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Bakmi Golek (BSD)",
+    "area": "BSD",
+    "category": "Bakmi",
+    "tags": [
+      "bakmi jawa",
+      "porsi keluarga",
+      "halal",
+      "underrated"
+    ],
+    "Price": "30.000 - 60.000",
+    "rating": 4.6,
+    "address": "Jl. Raya Serpong (Dekat Melati Mas)",
+    "recommended_for": [
+      "makan bareng keluarga",
+      "pecinta bakmi",
+      "dinner"
+    ],
+    "opening_time_hint": "10:00 - 22:00",
+    "special_feature": "Bakmi spesial golek dengan topping ayam, jamur, dan bakso yang komplit. Porsinya sangat mengenyangkan.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Ayam Goreng Karawaci (Icon Branch)",
+    "area": "BSD",
+    "category": "Masakan Nusantara",
+    "tags": [
+      "ayam kremes",
+      "sayur asem",
+      "cepat",
+      "underrated"
+    ],
+    "Price": "35.000 - 55.000",
+    "rating": 4.5,
+    "address": "Ruko Icon Business Park, BSD City",
+    "recommended_for": [
+      "lunch cepat",
+      "karyawan",
+      "hemat"
+    ],
+    "opening_time_hint": "10:00 - 21:00",
+    "special_feature": "Paket ayamnya sudah termasuk sayur asem dan kremesan melimpah. Sambalnya pedas nampol.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  },
+  {
+    "name": "Es Teler 77 (Pasmod Legend)",
+    "area": "BSD",
+    "category": "Dessert/Nusantara",
+    "tags": [
+      "es teler",
+      "otak-otak",
+      "legendaris",
+      "underrated"
+    ],
+    "Price": "25.000 - 55.000",
+    "rating": 4.4,
+    "address": "Pasar Modern BSD (Pintu Masuk Utama)",
+    "recommended_for": [
+      "ngemil sore",
+      "cuaca panas",
+      "keluarga"
+    ],
+    "opening_time_hint": "09:00 - 18:00",
+    "special_feature": "Salah satu gerai tertua yang rasanya masih sangat konsisten. Otak-otak bakarnya gacor banget dicocol sambal kacang.",
+    "klasifikasi": {
+      "tag": "Mid",
+      "search_keywords": [
+        "mid",
+        "sedang",
+        "normal",
+        "menengah"
+      ]
+    }
+  }
+]
