@@ -289,6 +289,8 @@
 ┌──────────────────────────────────────────────────────────────┐
 │  <span class="title">OLLAMA AI (Model: Gemma3:4b)</span>                              │
 │                                                              │
+│  <span class="subtitle">Hardware: NVIDIA RTX 3050 (VRAM: ~3.4GB | Power: ~43W)</span>      │
+│                                                              │
 │  <span class="subtitle">Proses AI:</span>                                                 │
 │                                                              │
 │  1. Menerima Data                                            │
@@ -326,7 +328,7 @@
 │                                                              │
 │   (+ 3 restoran lainnya)"                                    │
 │                                                              │
-│  <span class="comment">Waktu proses: ~2,5 detik</span>                                 │
+│  <span class="comment">Waktu proses: ~10,5 detik</span>                                 │
 └──────────────────────────────────────────────────────────────┘
                             │
                             │ Jawaban AI
@@ -361,10 +363,10 @@
   Database search (276 restoran):      ~0,05 detik
   Ranking & selection:                 ~0,01 detik
   Build context:                       ~0,01 detik
-  AI inference (Ollama):               ~2,50 detik
+  AI inference (RTX 3050 @ 43W):       ~10,50 detik
   Display ke user:                     ~0,02 detik
   ──────────────────────────────────────────────────
-  <span class="highlight">TOTAL WAKTU:                         ~2,6 detik</span>
+  <span class="highlight">TOTAL WAKTU:                         ~10,6 detik</span>
 
 </pre>
         </div>
@@ -416,8 +418,8 @@
 [OK] Mudah Update
    Edit JSON langsung berlaku
 
-[OK] Cepat
-   Total 2,6 detik saja
+[OK] Stabil
+   Total 10,6 detik saja
 
 <span class="highlight">FILOSOFI:</span>
 <span class="comment">Python = Cari data BENAR
@@ -552,7 +554,7 @@ AI: "Aku rekomendasiin:
 <span class="highlight">HASIL AKHIR:</span>
 
   Akurasi Data        : <span class="highlight">100%</span> [OK]
-  Waktu Response      : <span class="highlight">~2,6 detik</span> [OK]
+  Waktu Response      : <span class="highlight">~10,6 detik</span> [OK]
   User Experience     : <span class="highlight">Natural & Ramah</span> [OK]
   Maintenance         : <span class="highlight">Mudah (edit JSON)</span> [OK]
   Halusinasi AI       : <span class="highlight">0%</span> [OK]
