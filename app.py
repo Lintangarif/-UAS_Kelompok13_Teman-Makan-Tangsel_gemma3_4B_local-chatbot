@@ -14,7 +14,7 @@ st.set_page_config(
     layout="wide"
 )
 
-# CSS (Tetap sama dengan punyamu)
+# CSS 
 st.markdown("""
 <style>
     .main { background-color: #f7f7f8; }
